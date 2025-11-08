@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Mohammad Rowshan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Engineer, Researcher, Educator"
   location         : "Sydney, NSW, Australia"
   employer         : "University of New South Wales"
-  uri              : # URL
+  uri              : "https://research.unsw.edu.au/people/dr-mohammad-rowshan"
   email            : "mrowshan@ieee.org" 
 
   # Academic websites
