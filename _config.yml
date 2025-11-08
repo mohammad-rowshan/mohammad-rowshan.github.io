@@ -24,37 +24,37 @@ repository               : "mohammad-rowshan/mohammad-rowshan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohammad Rowshan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Sydney, NSW, Australia"
+  employer         : "University of New South Wales"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mrowshan@ieee.org" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Rowshan%2C+M"
+  googlescholar    : "https://scholar.google.com.au/citations?user=j4AWngUAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0000-0002-2199-5655"
+  semantic         : "https://www.semanticscholar.org/author/Mohammad-Rowshan/66617822"
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Mohammad-Rowshan"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mohammad-rowshan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/rowshan-mohd/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
