@@ -64,10 +64,6 @@ author_profile: true
 - [Session “Coding Theory 1”](https://globecom2023.ieee-globecom.org/program/technical-program-day-1), Communications Theory Symposium, GLOBECOM 2023 – 2023  
 
 
-### Peer Review Work
-
-- **Total:** 188 verified reviews (128 for journals), as of April 2025.
-
 **Journals:**  
 IEEE Transactions on Communications (2019–),  
 IEEE Transactions on Information Theory (2021–),  
