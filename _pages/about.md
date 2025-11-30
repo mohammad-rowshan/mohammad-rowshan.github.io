@@ -32,7 +32,8 @@ New Release in IEEE Series on Digital & Mobile Communication
 
 **Polar Codes: From Theory to Practice** — now available from IEEE Press & Wiley.  
 ISBN: 9781119911739  
-Learn more here:  [Wiley Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760) | [IEEExplore](https://ieeexplore.ieee.org/book/11229971)  | [Google Books](https://www.google.com.au/books/edition/Polar_Codes/ozA80AEACAAJ?hl=en&kptab=overview)  
+Learn more here:  [Wiley Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760) | [IEEExplore](https://ieeexplore.ieee.org/book/11229971)  
+Book Preview: [Google Books](https://www.google.com.au/books/edition/Polar_Codes/ozA80AEACAAJ?hl=en&gbpv=1)
 Feel free to share any feedback to help improve future editions.
 
 Available at: [Wiley](https://www.wiley.com/en-us/Polar+Codes%3A+From+Theory+to+Practice-p-9781119911753) | [Amazon](https://www.amazon.com/Polar-Codes-Practice-Mohammad-Rowshan/dp/1119911737) | [Google Play](https://play.google.com/store/books/details/Mohammad_Rowshan_Polar_Codes?id=I5eTEQAAQBAJ) | [BookFinder.com](https://bookfinder.com/isbn/9781119911739/?author=&binding=ANY&condition=ANY&currency=AUD&destination=AU&firstEdition=false&isbn=9781119911739&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=&viewAll=false)       
