@@ -1,0 +1,77 @@
+---
+layout: single
+title: "Academic Service"
+permalink: /academic-service/
+author_profile: true
+---
+
+## Leadership, Governance & Academic Service
+
+- **Member, Education Committee (EC), Faculty of Engineering, UNSW** (2024–2025)  
+  *Contributions:* Reviewing course outline proposals; discussing and making decisions on new courses, programs, assessment styles, calendar models, etc., through participation in 2.5-hour monthly meetings and associated preparatory work.
+
+- **Member, Research Progress Review Panel, UNSW** (2023–present)  
+  *Contributions:* Evaluating the conducted research and overall progress of MPhil/PhD students through Q&A sessions at annual seminars and based on provided reports, and offering suggestions for improvement.  
+  In total: 2 (Nov 2023) + 3 (Apr 2024) + 5 (Aug 2024) + 5 (Nov 2024) + 1 (Feb 2025) + 3 (May 2025) + 4 (Aug 2025) = **23 reviews**.
+
+- **Examiner, Honours & Master’s Theses, UNSW** (2023–present)  
+  *Contributions:* Assessing seminars, initial reports, posters, and final reports for  
+  1 (Term 3 2023) + 6 (Term 1 2024) + 2 (Term 2 2024) + 13 (Term 3 2024) +  
+  12 (Term 1 2025) + 6 (Term 2 2025) + 2 (Term 3 2025) = **42 students**.
+
+- **Representative of PhD Students, Faculty of Engineering, Monash University** (2020–2021)
+
+- **Class Representative, Department of Electrical and Electronic Engineering, University of Nottingham** (2014–2015)
+
+
+## Service to the Profession
+
+### Member of Technical Program Committees (TPC)
+
+- [International Symposium on Information Theory (ISIT)](https://2026.ieee-isit.org/technical-program-committee), Guangzhou, China – 2026  
+- Channel Coding Beyond 5G Workshop in GLOBECOM, Taipei, Taiwan – 2025  
+- [International Symposium on Information Theory (ISIT)](https://2025.ieee-isit.org/technical-program-committee), Ann Arbor, USA – 2025  
+- Channel Coding Beyond 5G Workshop in GLOBECOM, Cape Town, South Africa – 2024  
+- Wireless Communications Symposium in GLOBECOM, Kuala Lumpur, Malaysia – 2023  
+- [Channel Coding Beyond 5G Workshop](https://globecom2023.ieee-globecom.org/workshop/ws12-channel-coding-beyond-5g/committees) in GLOBECOM, Kuala Lumpur, Malaysia – 2023  
+- [Channel Coding Beyond 5G Workshop](https://globecom2022.ieee-globecom.org/workshop/ws11-channel-coding-beyond-5g/committees) in GLOBECOM, Rio de Janeiro, Brazil – 2022  
+- [Channel Coding Beyond 5G Workshop](https://globecom2021.ieee-globecom.org/workshop/ws-07-workshop-channel-coding-beyond-5g/committees) in GLOBECOM, Madrid, Spain – 2021  
+
+
+### Session Chair in Conferences
+
+- [Session “Coding Theory 1”](https://globecom2023.ieee-globecom.org/program/technical-program-day-1), Communications Theory Symposium, GLOBECOM 2023 – 2023  
+
+
+### Peer Review Work
+
+- **Total:** 188 verified reviews (128 for journals), as of April 2025.
+
+**Journals:**  
+IEEE Transactions on Communications (2019–),  
+IEEE Transactions on Information Theory (2021–),  
+IEEE Communications Letters (2019–),  
+IEEE Wireless Communications Letters (2020–),  
+IEEE Transactions on Vehicular Technology (2019–),  
+IEEE Transactions on Signal Processing (2019–),  
+IEEE Transactions on Circuits and Systems II (2020–),  
+IEEE Transactions on Selected Areas in Information Theory (2023–),  
+IEEE Transactions on Green Communications and Networking (2023–),  
+EURASIP Journal on Wireless Communications and Networking (2020–),  
+IET Communications (2018–),  
+IET Electronics Letters (2020–),  
+IEEE Access (2021–),  
+Entropy (2022–).
+
+**Conferences:**  
+International Symposium on Information Theory (ISIT) (2019, 2020, 2021, 2022, 2023, 2024),  
+IEEE GLOBECOM (2021, 2022, 2023, 2024),  
+International Symposium on Topics in Coding (ISTC) (2021, 2023),  
+IEEE Vehicular Technology Conference (VTC) (2022s, 2023s),  
+IEEE International Symposium on Circuits and Systems (ISCAS) (2023),  
+IEEE Information Theory Workshop (ITW) (2019, 2022),  
+IEEE International Conference on Communications (ICC) (2017, 2019, 2021),  
+IEEE Wireless Communications and Networking Conference (WCNC) (2018).
+
+**List of peer reviews (verified):**  
+<https://www.webofscience.com/wos/author/record/AAD-1014-2020>
