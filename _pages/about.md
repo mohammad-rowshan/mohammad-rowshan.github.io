@@ -10,7 +10,7 @@ published: true
 
 
 Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at UNSW Sydney. 
-
+---
 ### Education
 
 - **Ph.D. in Electrical Engineering (Communications Technologies)**, Monash University, 2021,
@@ -18,7 +18,7 @@ Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of
 - **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
 
 During his doctoral studies, he also spent six months at the Telecommunications Circuits Laboratory (TCL) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. He also has a Bachelor of Science degree in Industrial Engineering. 
-
+---
 ### Research Interests
  - Classical and quantum error correction codes,
  - Wireless communications and signal processing,
