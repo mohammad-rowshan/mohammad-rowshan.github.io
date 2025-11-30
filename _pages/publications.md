@@ -9,7 +9,7 @@ published: true
 ## Books
 
 - **[B1]** **M. Rowshan** and E. Viterbo, *Polar Codes: From Theory to Practice*, Hoboken, NJ, USA: John Wiley & Sons and IEEE Press, 2025.  
-  Available at: [Wiley](https://www.wiley.com/en-us/Polar+Codes%3A+From+Theory+to+Practice-p-9781119911753) | [Amazon](https://www.amazon.com/Polar-Codes-Practice-Mohammad-Rowshan/dp/1119911737) | [Google Play](https://play.google.com/store/books/details/Mohammad_Rowshan_Polar_Codes?id=I5eTEQAAQBAJ)
+  
 
 ---
 
