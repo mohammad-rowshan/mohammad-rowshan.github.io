@@ -5,6 +5,31 @@ permalink: /academic-service/
 author_profile: true
 ---
 
+## Mentorship and Research Supervision
+
+**Research Supervisor, UNSW Sydney**  
+
+  - **Xinyi Gu (PhD)** – Coding Theory (May 2023–present)  
+  - **Hamish Shaw (PhD)** – Digital Signal Processing (Jul 2022–present)  
+  - **Xinyi Gu (MPhil)** – VLSI Design & Coding Theory (Jan 2022–Apr 2023)  
+
+
+**Honours / Master’s Thesis Supervisor, UNSW Sydney** (Aug 2023–present)  
+- Projects status: 12 completed.  
+- Achievements: Penelope Jurd won 3rd place in the UNSW poster competition.
+- Topics on
+  - Algorithm and Hardware Architecture (VLSI) Design: 9 students
+  - Signal Processing for Communications: 2 students
+  - Machine Learning in Channel Coding: 1 student
+
+**Summer Project (Taste of Research) Supervisor, UNSW Sydney** (2024–present)  
+- Projects status: 1 completed + 1 onging. 
+- Topics on
+ - Homomorphic Encryption in Federated Learning
+
+
+
+
 ## Leadership, Governance & Academic Service
 
 - **Member, Education Committee (EC), Faculty of Engineering, UNSW** (2024–2025)  
@@ -12,12 +37,9 @@ author_profile: true
 
 - **Member, Research Progress Review Panel, UNSW** (2023–present)  
   *Contributions:* Evaluating the conducted research and overall progress of MPhil/PhD students through Q&A sessions at annual seminars and based on provided reports, and offering suggestions for improvement.  
-  In total: 2 (Nov 2023) + 3 (Apr 2024) + 5 (Aug 2024) + 5 (Nov 2024) + 1 (Feb 2025) + 3 (May 2025) + 4 (Aug 2025) = **23 reviews**.
 
 - **Examiner, Honours & Master’s Theses, UNSW** (2023–present)  
-  *Contributions:* Assessing seminars, initial reports, posters, and final reports for  
-  1 (Term 3 2023) + 6 (Term 1 2024) + 2 (Term 2 2024) + 13 (Term 3 2024) +  
-  12 (Term 1 2025) + 6 (Term 2 2025) + 2 (Term 3 2025) = **42 students**.
+  *Contributions:* Assessing seminars, initial reports, posters, and final reports.
 
 - **Representative of PhD Students, Faculty of Engineering, Monash University** (2020–2021)
 
@@ -64,9 +86,9 @@ IEEE Access (2021–),
 Entropy (2022–).
 
 **Conferences:**  
-International Symposium on Information Theory (ISIT) (2019, 2020, 2021, 2022, 2023, 2024),  
-IEEE GLOBECOM (2021, 2022, 2023, 2024),  
-International Symposium on Topics in Coding (ISTC) (2021, 2023),  
+International Symposium on Information Theory (ISIT) (2019, 2020, 2021, 2022, 2023, 2024, 2025),  
+IEEE GLOBECOM (2021, 2022, 2023, 2024, 2025),  
+International Symposium on Topics in Coding (ISTC) (2021, 2023, 2025),  
 IEEE Vehicular Technology Conference (VTC) (2022s, 2023s),  
 IEEE International Symposium on Circuits and Systems (ISCAS) (2023),  
 IEEE Information Theory Workshop (ITW) (2019, 2022),  
