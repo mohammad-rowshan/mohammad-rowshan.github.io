@@ -1,12 +1,17 @@
-Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at UNSW Sydney. His research focuses on classicla and quantum error correction codes, singal processing for communications systems, and hardware architecture design.  
+Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at UNSW Sydney. 
 
 ### Education
 
-- **Ph.D. in Electrical Engineering (Communications Technologies)**, Monash University, 2021.
-- **M.Sc. in Integrated Circuit Design Engineering**, The Hong Kong University of Science and Technology (HKUST), 2016.
+- **Ph.D. in Electrical Engineering (Communications Technologies)**, Monash University, 2021,
+- **M.Sc. in Integrated Circuit Design Engineering**, The Hong Kong University of Science and Technology (HKUST), 2016,
 - **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
 
 During his doctoral studies, he also spent six months at the Telecommunications Circuits Laboratory (TCL) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. He also has a Bachelor of Science degree in Industrial Engineering. 
+
+### Research Interests
+ - **classical and quantum error correction codes,
+ - **Wireless communications and signal processing,
+ - **Hardware architecture design.  
 
 
 <hr />
