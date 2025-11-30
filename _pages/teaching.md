@@ -16,6 +16,11 @@ author_profile: true
   Term 1 (Feb–May), 2023 – Lecturer and Tutor  
   [Course handbook](https://www.handbook.unsw.edu.au/postgraduate/courses/2023/TELE9753?year=2023)
 
+- **ELEC1111 – Electrical Circuit Fundamentals**  
+  Term 1 (Feb–May), 2023 – Tutor  
+  [Course handbook](https://www.handbook.unsw.edu.au/undergraduate/courses//ELEC1111)
+
+
 ---
 
 ### Monash University
@@ -23,22 +28,22 @@ author_profile: true
 **Tutor and Lab Demonstrator for:**
 
 - **ECE3073 – Computer Systems**  
-  Fall 2019–2021
+  Fall 2019–2021 - Tutor and Lab Demonstrator
 
 - **ECE2072 – Digital Systems**  
-  Spring 2018, 2020–2021
+  Spring 2018, 2020–2021 - Lab Demonstrator
 
 - **ECE5883 – Advanced Signal Processing**  
-  Fall 2019–2020
+  Fall 2019–2020 - Tutor and Lab Demonstrator
 
 - **ECE4146 – Multimedia Technologies**  
-  Spring 2020–2021
+  Spring 2020–2021 - Lab Demonstrator
 
 - **ECE2191 – Probability Models in Engineering**  
-  Spring 2018–2019
+  Spring 2018–2019 - Tutor
 
 - **ENG5001 – Advanced Engineering Data Analysis**  
-  Fall 2018
+  Fall 2018 - Tutor
 
 
 
