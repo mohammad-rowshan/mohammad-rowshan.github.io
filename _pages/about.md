@@ -1,3 +1,14 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+published: true
+---
+
+
 Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at UNSW Sydney. 
 
 ### Education
