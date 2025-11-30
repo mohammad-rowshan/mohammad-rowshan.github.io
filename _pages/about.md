@@ -20,7 +20,7 @@ Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of
 During his doctoral studies, he also spent six months at the Telecommunications Circuits Laboratory (TCL) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. He also has a Bachelor of Science degree in Industrial Engineering. 
 
 ### Research Interests
- - classical and quantum error correction codes,
+ - Classical and quantum error correction codes,
  - Wireless communications and signal processing,
  - Hardware architecture design.  
 
