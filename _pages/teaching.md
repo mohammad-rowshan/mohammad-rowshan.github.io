@@ -17,7 +17,7 @@ author_profile: true
   [Course handbook](https://www.handbook.unsw.edu.au/postgraduate/courses/2023/TELE9753?year=2023)
 
 - **ELEC1111 – Electrical Circuit Fundamentals**  
-  Term 1 (Feb–May), 2023 – Tutor  
+  Term 3 (Sep–Dec), 2023 – Tutor  
   [Course handbook](https://www.handbook.unsw.edu.au/undergraduate/courses//ELEC1111)
 
 
