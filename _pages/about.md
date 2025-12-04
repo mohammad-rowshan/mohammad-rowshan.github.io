@@ -13,7 +13,7 @@ Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of
 
 ---
 
-I am open to new opportunities in both academia and industry that align with my expertise and interests. Please feel free to reach out if you would like to discuss potential collaborations, projects, or positions.
+I am open to new opportunities in both academia and industry. Please feel free to reach out if you would like to discuss potential collaborations, projects, or positions.
 
 ---
 ### Education
