@@ -12,6 +12,10 @@ published: true
 Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at UNSW Sydney.  
 
 ---
+
+I am open to new opportunities in both academia and industry that align with my expertise in error correction codes (in particular, quantum codes) and communication systems. Please feel free to reach out if you would like to discuss potential collaborations, projects, or positions.
+
+---
 ### Education
 
 - **Ph.D. in Electrical Engineering (Communications Technologies)**, Monash University, 2021,
