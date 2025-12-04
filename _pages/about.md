@@ -28,7 +28,8 @@ During his doctoral studies, he also spent six months at the Telecommunications 
 ### Research Interests
  - Classical and quantum error correction codes,
  - Wireless communications and signal processing,
- - Hardware architecture design.  
+ - Hardware architecture design.
+ - Machine learning
 
 ---
 New Release in IEEE Series on Digital & Mobile Communication  
