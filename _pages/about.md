@@ -8,7 +8,7 @@ redirect_from:
 published: true
 ---
 
-Welcome — I’m glad you’ve found your way here. I don’t know exactly what brought you to my page: perhaps curiosity, research, or chance. Whatever the reason, I invite you to explore my work publications. You may discover ideas that connect with your own journey — or spark new ones. I am always open to new opportunities. If you see potential for us to work together, I’d be delighted to hear from you.
+Welcome — I’m glad you’ve found your way here. I don’t know exactly what brought you to my page: perhaps curiosity, research, or chance. Whatever the reason, I invite you to explore my publications. You may discover ideas that connect with your own journey — or spark new ones. I am always open to new opportunities. If you see potential for us to work together, I’d be delighted to hear from you.
 
 ---
 
