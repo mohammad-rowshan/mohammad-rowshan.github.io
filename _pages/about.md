@@ -8,15 +8,15 @@ redirect_from:
 published: true
 ---
 
-Welcome — I’m glad you’ve found your way here. I don’t know exactly what brought you to my page: perhaps curiosity, research, or chance. Whatever the reason, I invite you to explore my publications. You may discover ideas that connect with your own journey — or spark new ones. I am always open to new opportunities. If you see potential for us to work together, I’d be delighted to hear from you.
+Welcome — I’m glad you’ve found your way here. Whether you’re visiting out of curiosity, research, or by chance, I invite you to explore my research works. You may discover ideas that connect with your own journey — or spark new ones. If you see potential for us to work together in any capacity, I’d be delighted to hear from you.
 
 ---
+### About
 
-Mohammad Rowshan is an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. 
+I’m Mohammad Rowshan, an Engineering Early-Career Academic Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney.
 
----
+I am open to opportunities in both academia and industry, including collaborations, projects, and positions.
 
-I am open to new opportunities in both academia and industry. Please feel free to reach out if you would like to discuss potential collaborations, projects, or positions.
 
 ---
 ### Education
