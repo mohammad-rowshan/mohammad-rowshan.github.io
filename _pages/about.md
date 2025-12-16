@@ -25,7 +25,7 @@ I am open to opportunities in both academia and industry, including collaboratio
 - **M.Sc. in Integrated Circuit Design Engineering**, The Hong Kong University of Science and Technology (HKUST), 2016,
 - **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
 
-During his doctoral studies, he also spent six months at the Telecommunications Circuits Laboratory (TCL) at **École Polytechnique Fédérale de Lausanne (EPFL)**, Switzerland. He also has a Bachelor of Science degree in **Industrial Engineering**.  
+During my doctoral studies, I spent six months at the Telecommunications Circuits Laboratory (TCL) at **École Polytechnique Fédérale de Lausanne (EPFL)**, Switzerland. I also have a Bachelor of Science degree in **Industrial Engineering** and work experience in this field.  
 
 ---
 ### Research Interests
