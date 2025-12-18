@@ -29,15 +29,15 @@ During my doctoral studies, I spent six months at the Telecommunications Circuit
 
 ---
 ### Research Interests
- - Classical and quantum error-correction codes (recently more focused on quantum codes),
-    - Decreasing monomial codes (polar codes, Reed--Muller codes and their variants)
-    - Quantum stabilizer codes and fault‑tolerant quantum computation
+ - Classical and quantum error-correction codes,
+    - Decreasing monomial codes (polar codes, Reed-Muller codes and their variants)
     - Quantum LDPC codes adapted to hardware constraints and decoding based on noise models
+    - Quantum stabilizer codes and fault‑tolerant quantum computation
  - Wireless communications and signal processing,
  - Hardware architecture design.
  - Machine learning
 
-I am deeply interested in addressing fundamental problems in the field, uncovering useful properties and their applications, and transforming abstract ideas into practical technologies.
+I am deeply interested in addressing fundamental problems in the field, uncovering useful mathematical/structural properties and their applications, and transforming abstract ideas into practical technologies.
 ---
 New Release in IEEE Series on Digital & Mobile Communication  
 <p><a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760" title="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760"><img src="https://m.media-amazon.com/images/I/71EzpaACEmL._SL1500_.jpg" style="width:300px; height:auto;" /></a></p>  
