@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 ## Mentorship and Research Supervision
-**Editorial Roles**
-  - **Associate Editor**, Open Journal of Communications Society (Dec 2025-present)
-
 **Research Supervisor, UNSW Sydney**  
 
   - **Xinyi Gu (PhD)** – Coding Theory (May 2023–present)  
@@ -48,6 +45,11 @@ author_profile: true
 
 
 ## Service to the Profession
+### Editorial Roles
+
+  - **Associate Editor**, Open Journal of Communications Society (Dec 2025-present)
+
+
 
 ### Member of Technical Program Committees (TPC)
 
