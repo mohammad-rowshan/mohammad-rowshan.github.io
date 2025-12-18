@@ -7,7 +7,7 @@ author_profile: true
 
 ## Mentorship and Research Supervision
 **Editorial Roles**
-  - Associate Editor, Open Journal of Communications Society
+  - **Associate Editor**, Open Journal of Communications Society (Dec 2025-present)
 
 **Research Supervisor, UNSW Sydney**  
 
