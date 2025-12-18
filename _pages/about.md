@@ -36,6 +36,7 @@ During my doctoral studies, I spent six months at the Telecommunications Circuit
  - Wireless communications and signal processing,
  - Hardware architecture design.
  - Machine learning
+   
 I am deeply interested in addressing fundamental problems in the field, uncovering useful mathematical/structural properties and their applications, and transforming abstract ideas into practical technologies.
 
 ---
