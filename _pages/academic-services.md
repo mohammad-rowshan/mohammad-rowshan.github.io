@@ -68,7 +68,8 @@ author_profile: true
 - [Session “Coding Theory 1”](https://globecom2023.ieee-globecom.org/program/technical-program-day-1), Communications Theory Symposium, GLOBECOM 2023 – 2023  
 
 ### Peer Review Contributions
-
+**List of peer reviews (verified):**  
+<https://www.webofscience.com/wos/author/record/AAD-1014-2020>
 **Journals:**  
 IEEE Transactions on Communications (2019–),  
 IEEE Transactions on Information Theory (2021–),  
@@ -95,5 +96,4 @@ IEEE Information Theory Workshop (ITW) (2019, 2022),
 IEEE International Conference on Communications (ICC) (2017, 2019, 2021),  
 IEEE Wireless Communications and Networking Conference (WCNC) (2018).
 
-**List of peer reviews (verified):**  
-<https://www.webofscience.com/wos/author/record/AAD-1014-2020>
+
