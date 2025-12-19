@@ -24,7 +24,8 @@ author_profile: true
 ## Service to the Profession
 ### Editorial Roles
 
-  - **Associate Editor**, Open Journal of Communications Society (Invited in mid-December 2025)
+  - **Associate Editor**, Open Journal of Communications Society (2025-present)
+  - **Associate Editor**, Open Journal of Communications Society (2025-present)
 
 
 
