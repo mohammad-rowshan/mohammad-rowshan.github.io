@@ -21,7 +21,7 @@ I am open to opportunities in both academia and industry, including collaboratio
 ---
 ### Education
 
-- **Ph.D. in Electrical Engineering (Communications Technologies)**, Monash University, 2021,
+- **Ph.D. in Electrical Engineering**, Monash University, 2021,
 - **M.Sc. in Integrated Circuit Design Engineering**, The Hong Kong University of Science and Technology (HKUST), 2016,
 - **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
 
