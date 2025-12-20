@@ -43,6 +43,7 @@ author:
   pubmed           : # URL
   researchgate     : #"https://www.researchgate.net/profile/Mohammad-Rowshan"
   scopus           : # URL
+  ieeexplore       : "https://ieeexplore.ieee.org/author/37086604463"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
