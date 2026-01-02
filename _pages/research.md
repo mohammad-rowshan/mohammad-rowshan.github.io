@@ -10,8 +10,8 @@ published: true
 
 # Research
 
-This page organises my research into a set of themes and links representative publications on each topic.  
-For a complete list, please see the Publications page of this site.
+This page organises my research into a set of themes and links to representative publications on each topic.  
+For a complete list, please visit my [Google Scholar](https://scholar.google.com.au/citations?user=j4AWngUAAAAJ&hl=en) page.
 
 
 ## Selected Publications
@@ -37,7 +37,7 @@ For a complete list, please see the Publications page of this site.
 ### Representative work (in progress)
 
 - M. Rowshan, “Directionally-biased Decoding of Quantum LDPC Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-  *(An IEEE Xplore link will be added here once the paper is accepted and published.)*
+
 
 ---
 
@@ -80,8 +80,6 @@ For a complete list, please see the Publications page of this site.
 - X. Gu, M. Rowshan, and J. Yuan, “[Rate-Compatible Shortened PAC Codes](https://doi.org/10.1109/ICCCWorkshops57813.2023.10233795),” in *Proc. IEEE/CIC Int. Conf. Commun. China (ICCC) Workshops*, Dalian, China, 2023, pp. 1–6, doi: [10.1109/ICCCWorkshops57813.2023.10233795](https://doi.org/10.1109/ICCCWorkshops57813.2023.10233795).
 
 
-
-(*Related ongoing work includes the submitted paper “Hybrid Reliability–Weight Polar Codes,” ISIT 2026.*)
 
 ---
 
@@ -142,7 +140,7 @@ For a complete list, please see the Publications page of this site.
 
 - Quantisation strategies for belief-propagation and list decoders, targeting hardware efficiency.
 - Architectural design for BP decoding of polar codes with non-uniform quantisation.
-- Early work on repetition-assisted decoding and practical implementation aspects.
+- Low-complexity detection algorithms for OTFS modulation
 
 ### Representative publications
 
@@ -156,16 +154,14 @@ For a complete list, please see the Publications page of this site.
 ### Focus and contributions
 
 - Ongoing research on machine-learning–assisted decoding (e.g., learned heuristics for GRAND or SCL variants).
-- Data-driven design of code constructions and decoders guided by structural insights from polar and PAC codes.
-- Integration of ML components into 6G-oriented channel coding frameworks.
+- Data-driven design of channel estimation and detection algorithms.
 
-*(Dedicated ML-based coding papers are currently under development; representative publications will be added here as they appear.)*
 
 ---
 
 ## Books
 
-- M. Rowshan and E. Viterbo, *Polar Codes: From Theory to Practice*, Hoboken, NJ, USA: Wiley–IEEE Press, 2025, ISBN 978-1-119-91173-9.
+- M. Rowshan and E. Viterbo, *[Polar Codes: From Theory to Practice](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760)*, Hoboken, NJ, USA: Wiley–IEEE Press, 2025, ISBN 978-1-119-91173-9.
 - M. Rowshan and V.-F. Dragoi, *The Algebra of Polar Codes: Partial Orders, Automorphisms, Weight Structures, and Applications*, Hoboken, NJ, USA: Wiley–IEEE Press, 2027.
 
 
