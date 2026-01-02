@@ -13,9 +13,40 @@ published: true
 This page organises my research into a set of themes and links representative publications on each topic.  
 For a complete list, please see the Publications page of this site.
 
+
+## Selected Publications
+
+- [J9] M. Rowshan, S. H. Dau, and E. Viterbo, “[On the Formation of Min-weight Codewords of Polar/PAC Codes and Its Applications](https://doi.org/10.1109/TIT.2023.3319015),” *IEEE Trans. Inf. Theory*, vol. 69, no. 12, pp. 7627–7649, Dec. 2023, doi: [10.1109/TIT.2023.3319015](https://doi.org/10.1109/TIT.2023.3319015).
+
+- [J14] M. Rowshan, A. Burg, and E. Viterbo, “[Polarization-adjusted (PAC) Codes: Sequential Decoding vs List Decoding](https://doi.org/10.1109/TVT.2021.3052550),” *IEEE Trans. Veh. Technol.*, vol. 70, no. 2, pp. 1434–1447, 2021, doi: [10.1109/TVT.2021.3052550](https://doi.org/10.1109/TVT.2021.3052550).
+
+- [J7] M. Rowshan, M. Qiu, Y. Xie, X. Gu, and J. Yuan, “[Channel Coding Towards 6G: Technical Overview and Outlook](https://doi.org/10.1109/OJCOMS.2024.3390000),” *IEEE Open J. Commun. Soc.*, vol. 5, pp. 2585–2685, 2024, doi: [10.1109/OJCOMS.2024.3390000](https://doi.org/10.1109/OJCOMS.2024.3390000).
+
+- [J4] M. Rowshan, V. F. Dragoi, and J. Yuan, “[Weight Structure of Low/High-Rate Polar Codes and Weight Contribution-based Partial Order](https://doi.org/10.1109/TIT.2025.3616283),” *IEEE Trans. Inf. Theory*, vol. 71, no. 12, pp. 9340–9358, Dec. 2025, doi: [10.1109/TIT.2025.3616283](https://doi.org/10.1109/TIT.2025.3616283).
+
+- [J6] M. Rowshan and J. Yuan, “[Segmented GRAND: Complexity Reduction through Sub-pattern Combination](https://doi.org/10.1109/TCOMM.2025.3541094),” *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 5607–5620, Aug. 2025, doi: [10.1109/TCOMM.2025.3541094](https://doi.org/10.1109/TCOMM.2025.3541094).
+
+- [C3] X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
+
 ---
 
-## 1. Polar and PAC Codes: Structure, Algebra, and Weight Distribution
+## 1. CSS Codes and Quantum LDPC Codes
+
+### Focus and contributions
+
+- Construction and decoding of stabiliser (CSS) quantum codes derived from classical structures.
+- Directionally-biased decoding strategies for quantum LDPC codes, inspired by classical polar / PAC decoding heuristics.
+- Bridging classical coding insights (e.g., weight distribution, partial orders) with quantum error correction.
+
+### Representative work (in progress)
+
+- [C1] M. Rowshan, “Directionally-biased Decoding of Quantum LDPC Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+  *(An IEEE Xplore link will be added here once the paper is accepted and published.)*
+
+---
+
+
+## 2. Channel Coding - Polar and PAC Codes: Structure, Algebra, and Weight Distribution
 
 ### Focus and contributions
 
@@ -34,7 +65,7 @@ For a complete list, please see the Publications page of this site.
 
 ---
 
-## 2. Retransform Polar Codes and Weight-Aware Design
+## 3. Channel Coding - Pretransformed Polar Codes and Weight-Aware Design
 
 ### Focus and contributions
 
@@ -52,7 +83,7 @@ For a complete list, please see the Publications page of this site.
 
 ---
 
-## 3. Advanced Decoding Algorithms for Polar, PAC, and Related Codes
+## 4. Channel Coding - Advanced Decoding Algorithms for Polar, PAC, and Related Codes
 
 ### Focus and contributions
 
@@ -74,7 +105,7 @@ For a complete list, please see the Publications page of this site.
 
 ---
 
-## 4. Channel Coding for 5G, 6G, and Beyond
+## 5. Channel Coding for 5G, 6G, and Beyond
 
 ### Focus and contributions
 
@@ -84,7 +115,6 @@ For a complete list, please see the Publications page of this site.
 
 ### Representative publications
 
-- [J7] M. Rowshan, M. Qiu, Y. Xie, X. Gu, and J. Yuan, “[Channel Coding Towards 6G: Technical Overview and Outlook](https://doi.org/10.1109/OJCOMS.2024.3390000),” *IEEE Open J. Commun. Soc.*, vol. 5, pp. 2585–2685, 2024, doi: [10.1109/OJCOMS.2024.3390000](https://doi.org/10.1109/OJCOMS.2024.3390000).
 - [J3] X. Gu, M. Rowshan, and J. Yuan, “[Reverse Convolutional Precoding of Polar Codes: Design, Analysis, and Decoding Algorithms](https://doi.org/10.1109/OJCOMS.2025.3644338),” *IEEE Open J. Commun. Soc.*, vol. 6, pp. 7184–7199, 2025, doi: [10.1109/OJCOMS.2025.3644338](https://doi.org/10.1109/OJCOMS.2025.3644338).
 - [J6] M. Rowshan and J. Yuan, “[Segmented GRAND: Complexity Reduction through Sub-pattern Combination](https://doi.org/10.1109/TCOMM.2025.3541094),” *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 5607–5620, Aug. 2025, doi: [10.1109/TCOMM.2025.3541094](https://doi.org/10.1109/TCOMM.2025.3541094).
 - [C3] X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
@@ -122,21 +152,6 @@ For a complete list, please see the Publications page of this site.
 - [C12] X. Gu, M. Rowshan, and J. Yuan, “[A Non-Uniform Quantization-Based Hardware Architecture for BP Decoding of Polar Codes](https://doi.org/10.1109/ISCIT57293.2023.10376101),” in *Proc. Int. Symp. Commun. Inf. Technol. (ISCIT)*, Sydney, NSW, Australia, 2023, pp. 363–368, doi: [10.1109/ISCIT57293.2023.10376101](https://doi.org/10.1109/ISCIT57293.2023.10376101).
 - [C17] M. Rowshan, E. Viterbo, R. Micheloni, and A. Marelli, “[Logarithmic Non-uniform Quantization for List Decoding of Polar Codes](https://doi.org/10.1109/CCWC51732.2021.9375932),” in *Proc. IEEE Annu. Comput. Commun. Workshop Conf. (CCWC)*, Las Vegas, NV, USA, 2021, pp. 1161–1166, doi: [10.1109/CCWC51732.2021.9375932](https://doi.org/10.1109/CCWC51732.2021.9375932).
 - [J15] M. Rowshan, E. Viterbo, R. Micheloni, and A. Marelli, “[Repetition-assisted Decoding of Polar Codes](https://doi.org/10.1049/el.2018.6940),” *Electron. Lett.*, vol. 55, no. 5, pp. 270–272, 2019, doi: [10.1049/el.2018.6940](https://doi.org/10.1049/el.2018.6940).
-
----
-
-## 7. CSS Codes and Quantum LDPC Codes
-
-### Focus and contributions
-
-- Construction and decoding of stabiliser (CSS) quantum codes derived from classical structures.
-- Directionally-biased decoding strategies for quantum LDPC codes, inspired by classical polar / PAC decoding heuristics.
-- Bridging classical coding insights (e.g., weight distribution, partial orders) with quantum error correction.
-
-### Representative work (in progress)
-
-- [C1] M. Rowshan, “Directionally-biased Decoding of Quantum LDPC Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-  *(An IEEE Xplore link will be added here once the paper is accepted and published.)*
 
 ---
 
