@@ -37,9 +37,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 - M. Rowshan, “Directionally-biased Decoding of Quantum LDPC Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 
-
 ---
-
 
 ## 2. Channel Coding - Polar and PAC Codes: Structure, Algebra, and Weight Distribution
 
@@ -97,16 +95,17 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, A. Burg, and E. Viterbo, “[Polarization-adjusted (PAC) Codes: Sequential Decoding vs List Decoding](https://doi.org/10.1109/TVT.2021.3052550),” *IEEE Trans. Veh. Technol.*, vol. 70, no. 2, pp. 1434–1447, 2021, doi: [10.1109/TVT.2021.3052550](https://doi.org/10.1109/TVT.2021.3052550).
 - M. Rowshan and E. Viterbo, “[List Viterbi Decoding of PAC Codes](https://doi.org/10.1109/TVT.2021.3059370),” *IEEE Trans. Veh. Technol.*, vol. 70, no. 3, pp. 2428–2435, Mar. 2021, doi: [10.1109/TVT.2021.3059370](https://doi.org/10.1109/TVT.2021.3059370).
 - M. Rowshan and E. Viterbo, “[On Convolutional Precoding in PAC Codes(),” 2021 IEEE Globecom Workshops (GC Wkshps), 2021, pp. 1–6, doi: 10.1109/GCWkshps52748.2021.9681987.
-- - M. Rowshan, A. Burg, and E. Viterbo, “[Complexity-efficient Fano Decoding of Polarization-adjusted Convolutional (PAC) Codes](https://doi.org/10.34385/proc.65.B03-2),” in *Proc. Int. Symp. Inf. Theory Appl. (ISITA)*, Virtual/Kapolei, HI, USA, 2020, pp. 200–204, doi: [10.34385/proc.65.B03-2](https://doi.org/10.34385/proc.65.B03-2).
+- M. Rowshan, A. Burg, and E. Viterbo, “[Complexity-efficient Fano Decoding of Polarization-adjusted Convolutional (PAC) Codes](https://doi.org/10.34385/proc.65.B03-2),” in *Proc. Int. Symp. Inf. Theory Appl. (ISITA)*, Virtual/Kapolei, HI, USA, 2020, pp. 200–204, doi: [10.34385/proc.65.B03-2](https://doi.org/10.34385/proc.65.B03-2).
 - M. Rowshan and J. Yuan, “[Segmented GRAND: Complexity Reduction through Sub-pattern Combination](https://doi.org/10.1109/TCOMM.2025.3541094),” *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 5607–5620, Aug. 2025, doi: [10.1109/TCOMM.2025.3541094](https://doi.org/10.1109/TCOMM.2025.3541094).
 - M. Rowshan and J. Yuan, “[Low-Complexity GRAND by Segmentation](https://doi.org/10.1109/GLOBECOM54140.2023.10436895),” in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, 2023, pp. 6145–6151, doi: [10.1109/GLOBECOM54140.2023.10436895](https://doi.org/10.1109/GLOBECOM54140.2023.10436895).
 - M. Rowshan and J. H. Yuan, “[Constrained Error Pattern Generation for GRAND](https://doi.org/10.1109/ISIT50566.2022.9834343),” in *Proc. IEEE Int. Symp. Inf. Theory (ISIT)*, Helsinki, Finland, 2022, pp. 1767–1772, doi: [10.1109/ISIT50566.2022.9834343](https://doi.org/10.1109/ISIT50566.2022.9834343).
 - M. Rowshan and E. Viterbo, “[Efficient Partial Rewind of Successive Cancellation-based Decoders for Polar Codes](https://doi.org/10.1109/TCOMM.2022.3207842),” *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7160–7168, Nov. 2022, doi: [10.1109/TCOMM.2022.3207842](https://doi.org/10.1109/TCOMM.2022.3207842).
 - M. Rowshan and E. Viterbo, “[Improved List Decoding of Polar Codes by Shifted-pruning](https://ieeexplore.ieee.org/abstract/document/8989330),” *2019 IEEE Information Theory Workshop (ITW)*, Visby, Sweden, 2019, pp. 1–5, doi: 10.1109/ITW44776.2019.8989330.
 - M. Rowshan and E. Viterbo, “[Shifted-pruning for Path Recovery in List Decoding of Polar Codes](https://ieeexplore.ieee.org/abstract/document/9375833),” *2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC)*, NV, USA, 2021, pp. 1179–1184, doi: 10.1109/CCWC51732.2021.9375833.
-- - M. Rowshan and E. Viterbo, “[SC List-Flip Decoding of Polar Codes by Shifted Pruning: A General Approach](https://doi.org/10.3390/e24091210),” *Entropy*, vol. 24, no. 9, p. 1210, 2022, doi: [10.3390/e24091210](https://doi.org/10.3390/e24091210).
+- M. Rowshan and E. Viterbo, “[SC List-Flip Decoding of Polar Codes by Shifted Pruning: A General Approach](https://doi.org/10.3390/e24091210),” *Entropy*, vol. 24, no. 9, p. 1210, 2022, doi: [10.3390/e24091210](https://doi.org/10.3390/e24091210).
 - M. Rowshan, E. Viterbo, R. Micheloni, and A. Marelli, “[Repetition-assisted Decoding of Polar Codes](https://doi.org/10.1049/el.2018.6940),” *Electron. Lett.*, vol. 55, no. 5, pp. 270–272, 2019, doi: [10.1049/el.2018.6940](https://doi.org/10.1049/el.2018.6940).
 - M. Rowshan and E. Viterbo, “[Stepped List Decoding for Polar Codes](https://ieeexplore.ieee.org/abstract/document/8625267/),” *IEEE International Symposium on Turbo Codes & Iterative Signal Processing (ISTC)*, Hong Kong, Dec. 2018, pp. 1–5, doi: 10.1109/ISTC.2018.8625267.
+
 ---
 
 ## 5. Channel Coding for 5G, 6G, and Beyond
@@ -122,7 +121,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ---
 
-## 5. Signal Processing for Wireless Communications
+## 6. Signal Processing for Wireless Communications
 
 ### Focus and contributions
 
@@ -137,7 +136,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ---
 
-## 6. VLSI and Hardware–Software Co-Design for Communication Systems
+## 7. VLSI and Hardware–Software Co-Design for Communication Systems
 
 ### Focus and contributions
 
