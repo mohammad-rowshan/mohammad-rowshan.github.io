@@ -170,4 +170,4 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ## Patents
 
-- **[P1]** H. P. H. Shaw, J. Yuan and **M. Rowshan**, “Delay-Doppler based channel estimation method and apparatus,” [Australian Patent 2024900503](https://ipsearch.ipaustralia.gov.au/patents/2024900503), Feb. 28, 2024.
+- H. P. H. Shaw, J. Yuan and **M. Rowshan**, “Delay-Doppler based channel estimation method and apparatus,” [Australian Patent 2024900503](https://ipsearch.ipaustralia.gov.au/patents/2024900503), Feb. 28, 2024.
