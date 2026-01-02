@@ -9,8 +9,6 @@ published: true
 ---
 
 
-# Research
-
 This page organises my research into a set of themes and links to representative publications on each topic.  
 For a complete list, please visit my [Google Scholar](https://scholar.google.com.au/citations?user=j4AWngUAAAAJ&hl=en) page.
 
