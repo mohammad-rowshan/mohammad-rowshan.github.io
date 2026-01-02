@@ -39,7 +39,7 @@ I am passionate about tackling **fundamental problems** in the field, uncovering
  - Machine learning
    
 ---
-New Release in IEEE Series on Digital & Mobile Communication  
+New Release in IEEE Series on Digital & Mobile Communications  
 <p><a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760" title="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760"><img src="https://m.media-amazon.com/images/I/71EzpaACEmL._SL1500_.jpg" style="width:300px; height:auto;" /></a></p>  
 
 **Polar Codes: From Theory to Practice** — now available from IEEE Press & Wiley.  
