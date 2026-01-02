@@ -22,7 +22,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan and J. Yuan, “[Segmented GRAND: Complexity Reduction through Sub-pattern Combination](https://doi.org/10.1109/TCOMM.2025.3541094),” *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 5607–5620, Aug. 2025, doi: [10.1109/TCOMM.2025.3541094](https://doi.org/10.1109/TCOMM.2025.3541094).
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
 
----
+
 
 ## 1. CSS Codes - Construction and Decoding of Topological Codes and Quantum LDPC Codes
 
@@ -37,7 +37,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 - M. Rowshan, “Directionally-biased Decoding of Quantum LDPC Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 
----
+
 
 ## 2. Channel Coding - Polar and PAC Codes: Structure, Algebra, and Weight Distribution
 
@@ -58,7 +58,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, V. F. Dragoi, and J. Yuan, “[Weight Structure of Low/High-Rate Polar Codes and Its Applications](https://doi.org/10.1109/ISIT57864.2024.10619618),” in *Proc. IEEE Int. Symp. Inf. Theory (ISIT)*, Athens, Greece, 2024, pp. 2945–2950, doi: [10.1109/ISIT57864.2024.10619618](https://doi.org/10.1109/ISIT57864.2024.10619618).
 - V. F. Dragoi and M. Rowshan, “[On Polar Codes Weight Distribution](https://doi.org/10.1109/ISIT63088.2025.11195548),” in *Proc. IEEE Int. Symp. Inf. Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6, doi: [10.1109/ISIT63088.2025.11195548](https://doi.org/10.1109/ISIT63088.2025.11195548).
 
----
+
 
 ## 3. Channel Coding - Construction of (Pretransformed) Polar Codes
 
@@ -79,7 +79,6 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
----
 
 ## 4. Channel Coding - Advanced Decoding Algorithms for Polar, PAC, and Related Codes
 
@@ -106,7 +105,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, E. Viterbo, R. Micheloni, and A. Marelli, “[Repetition-assisted Decoding of Polar Codes](https://doi.org/10.1049/el.2018.6940),” *Electron. Lett.*, vol. 55, no. 5, pp. 270–272, 2019, doi: [10.1049/el.2018.6940](https://doi.org/10.1049/el.2018.6940).
 - M. Rowshan and E. Viterbo, “[Stepped List Decoding for Polar Codes](https://ieeexplore.ieee.org/abstract/document/8625267/),” *IEEE International Symposium on Turbo Codes & Iterative Signal Processing (ISTC)*, Hong Kong, Dec. 2018, pp. 1–5, doi: 10.1109/ISTC.2018.8625267.
 
----
+
 
 ## 5. Channel Coding for 5G, 6G, and Beyond
 
@@ -119,7 +118,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 - M. Rowshan, M. Qiu, Y. Xie, X. Gu, and J. Yuan, “[Channel Coding Towards 6G: Technical Overview and Outlook](https://doi.org/10.1109/OJCOMS.2024.3390000),” *IEEE Open J. Commun. Soc.*, vol. 5, pp. 2585–2685, 2024, doi: [10.1109/OJCOMS.2024.3390000](https://doi.org/10.1109/OJCOMS.2024.3390000).
 
----
+
 
 ## 6. Signal Processing for Wireless Communications
 
@@ -134,7 +133,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - H. P. H. Shaw, M. Rowshan, and J. Yuan, “[Improving OFDM Using Delay-Doppler Channel Estimation](https://doi.org/10.1109/OJCOMS.2025.3603197),” *IEEE Open J. Commun. Soc.*, vol. 6, pp. 7184–7199, 2025, doi: [10.1109/OJCOMS.2025.3603197](https://doi.org/10.1109/OJCOMS.2025.3603197).
 - H. P. H. Shaw, J. Yuan, and M. Rowshan, “[Delay-Doppler Channel Estimation by Leveraging the Ambiguity Function in OFDM Systems](https://doi.org/10.1109/ICCWorkshops57953.2023.10283594),” in *Proc. IEEE Int. Conf. Commun. (ICC) Workshops*, Rome, Italy, 2023, pp. 307–313, doi: [10.1109/ICCWorkshops57953.2023.10283594](https://doi.org/10.1109/ICCWorkshops57953.2023.10283594).
 
----
+
 
 ## 7. VLSI and Hardware–Software Co-Design for Communication Systems
 
@@ -149,7 +148,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - X. Gu, M. Rowshan, and J. Yuan, “[A Non-Uniform Quantization-Based Hardware Architecture for BP Decoding of Polar Codes](https://doi.org/10.1109/ISCIT57293.2023.10376101),” in *Proc. Int. Symp. Commun. Inf. Technol. (ISCIT)*, Sydney, NSW, Australia, 2023, pp. 363–368, doi: [10.1109/ISCIT57293.2023.10376101](https://doi.org/10.1109/ISCIT57293.2023.10376101).
 - M. Rowshan, E. Viterbo, R. Micheloni, and A. Marelli, “[Logarithmic Non-uniform Quantization for List Decoding of Polar Codes](https://doi.org/10.1109/CCWC51732.2021.9375932),” in *Proc. IEEE Annu. Comput. Commun. Workshop Conf. (CCWC)*, Las Vegas, NV, USA, 2021, pp. 1161–1166, doi: [10.1109/CCWC51732.2021.9375932](https://doi.org/10.1109/CCWC51732.2021.9375932).
 
----
+
 
 ## 8. Machine Learning in Channel Coding and Communication Systems
 
@@ -159,7 +158,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - Data-driven design of channel estimation and detection algorithms.
 
 
----
+
 
 ## Books
 
@@ -167,7 +166,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan and V.-F. Dragoi, *The Algebra of Polar Codes: Partial Orders, Automorphisms, Weight Structures, and Applications*, Hoboken, NJ, USA: Wiley–IEEE Press, 2027.
 
 
----
+
 
 ## Patents
 
