@@ -33,9 +33,9 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - Bridging classical coding insights (e.g., weight distribution, partial orders) with quantum error correction.
 - Hardware platform-oriented quantum code design and decoding
 
-### Representative work (in progress)
+### Representative work
 
-- M. Rowshan, “Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2504.19544),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 - M. Rowshan, “	Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 
 
