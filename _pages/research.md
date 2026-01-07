@@ -24,7 +24,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 1. CSS Codes - Construction and Decoding of Topological Codes and Quantum LDPC Codes
+## 1. CSS Codes - Construction and Decoding of Topological and qLDPC Codes
 
 ### Focus and contributions
 
