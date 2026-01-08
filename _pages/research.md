@@ -30,7 +30,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 - Construction and decoding of stabiliser (CSS) quantum codes derived from classical structures.
 - Noisey-biased code construction and decoding strategies for quantum LDPC codes.
-- Bridging classical coding insights (e.g., weight distribution, partial orders) with quantum error correction.
+- Bridging classical coding insights with quantum error correction.
 - Hardware platform-oriented quantum code design and decoding
 
 ### Representative work
