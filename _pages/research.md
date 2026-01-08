@@ -36,7 +36,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 ### Representative work
 
 - M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-- M. Rowshan, “	Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes,” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 
 
 
