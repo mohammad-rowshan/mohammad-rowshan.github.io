@@ -13,7 +13,9 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 ---
 ### About
 
-I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. The surname Rowshan (and its variants like Roshan, Roshna, Roshni) comes from Persian and means “light” or “illumination.” It appears across West, Central, and South Asia, where it is used in different linguistic and cultural traditions and also functions as a given name, including for women in some communities, while retaining its core meaning.
+I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. 
+
+The surname Rowshan (and its variants like Roshan, Roshna, Roshni) comes from Persian and means “light” or “illumination.” It appears across West, Central, and South Asia, where it is used in different linguistic and cultural traditions and also functions as a given name while retaining its core meaning.
 
 I am open to opportunities in both academia and industry, including collaborations, projects, and positions.
 
