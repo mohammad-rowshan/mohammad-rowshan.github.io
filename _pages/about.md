@@ -15,7 +15,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 
 I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. 
 
-The surname Rowshan (and variants such as Roshan, Roshna, and Roshni) comes from Persian, with broader Indo‑European roots, and means ‘light,’ ‘brightness,’ or ‘illumination.’ It appears across West, Central, and South Asia and is also used as a given name, while retaining this core meaning.
+The surname Rowshan (and variants such as Roshan) originates from Persian, specifically the Old Iranian word Raoxšna. While it shares ancient Indo-European roots with the English word 'light' and the Latin 'lux,' it carries a deeper cultural meaning implies intellectual enlightenment and spiritual clarity. While often a surname in the West and South Asia, it is widely used as a given name across Central Asia (often transliterated as Raushan). The variants Roshna and Roshni are specific feminine derivatives, referring to a ‘ray of light’ or ‘lustre,’ and are used almost exclusively for women." Historically, it is cognate with the name Roxana, borne by the wife of Alexander the Great.
 
 I am open to opportunities in both academia and industry, including collaborations, projects, and positions.
 
