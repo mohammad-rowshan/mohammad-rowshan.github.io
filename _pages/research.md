@@ -24,7 +24,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 1. Quantum Error Correction: Design and Decoding of Quantum LDPC, Topological, and Bosonic Codes
+## 1. Quantum Error Correction (QEC) and Fault Tolerant Quantum Computing (FTQC)
 
 ### Focus and contributions
 
