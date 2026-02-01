@@ -24,7 +24,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 1. CSS Codes - Construction and Decoding of Topological and qLDPC Codes
+## 1. Quantum Error Correction: Design and Decoding of Quantum LDPC, Topological, and Bosonic Codes
 
 ### Focus and contributions
 
