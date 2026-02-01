@@ -28,10 +28,11 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ### Focus and contributions
 
-- Construction and decoding of stabiliser (CSS) quantum codes derived from classical structures.
-- Noisey-biased code construction and decoding strategies for quantum LDPC codes.
-- Bridging classical coding insights with quantum error correction.
-- Hardware platform-oriented quantum code design and decoding
+- Structure-driven design of quantum LDPC, stabilizer, and bosonic lattice codes from classical algebraic, lattice, and coding-theoretic constructions.
+- Efficient, noise- and structure-aware decoding algorithms for quantum codes including bias-aware, degeneracy-exploiting, single-/few-shot, and approximate lattice decoders.
+- Noise- and hardware-tailored quantum error-correcting architectures for biased-noise, bosonic, and Floquet codes, integrating code design with realistic device and noise models.
+- Code-structure–enabled fault-tolerant quantum computation leveraging code strucutre to realize native logical gates and scalable magic-state factories (e.g., CCZ “fountains”).
+
 
 ### Representative work
 
