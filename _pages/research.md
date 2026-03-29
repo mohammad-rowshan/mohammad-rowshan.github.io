@@ -39,9 +39,9 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *Physical Review A*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Quantum*, Feb, 2026.
 - M. Rowshan, “[Structural conditions for native CCZ magic-state fountains in qLDPC codes](https://arxiv.org/pdf/2601.22489),” submitted to *Physical Review A*, Jan, 2026.
-- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
-- M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
+- M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016
 
 
 
@@ -55,8 +55,8 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ### Representative publications
 
-- M. Rowshan and V. F. Dragoi, “[Generalized Weight Structure of Polar Codes: Selected Template Polynomials](https://arxiv.org/pdf/2601.10362),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-- V. F. Dragoi and M. Rowshan, “[Algebraic Properties of PAC Codes](https://arxiv.org/pdf/2601.10262),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan and V. F. Dragoi, “[Generalized Weight Structure of Polar Codes: Selected Template Polynomials](https://arxiv.org/pdf/2601.10362),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- V. F. Dragoi and M. Rowshan, “[Algebraic Properties of PAC Codes](https://arxiv.org/pdf/2601.10262),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 - M. Rowshan, V. F. Dragoi, and J. Yuan, “[Weight Structure of Low/High-Rate Polar Codes and Weight Contribution-based Partial Order](https://doi.org/10.1109/TIT.2025.3616283),” *IEEE Trans. Inf. Theory*, vol. 71, no. 12, pp. 9340–9358, Dec. 2025, doi: [10.1109/TIT.2025.3616283](https://doi.org/10.1109/TIT.2025.3616283).
 - V. F. Dragoi, M. Rowshan, and J. Yuan, “[On the Closed-form Enumeration of Polar Codes: 1.5d-Weight Codewords](https://doi.org/10.1109/TCOMM.2024.3394749),” *IEEE Trans. Commun.*, vol. 72, no. 10, pp. 5972–5987, Oct. 2024, doi: [10.1109/TCOMM.2024.3394749](https://doi.org/10.1109/TCOMM.2024.3394749).
 - M. Rowshan, S. H. Dau, and E. Viterbo, “[On the Formation of Min-weight Codewords of Polar/PAC Codes and Its Applications](https://doi.org/10.1109/TIT.2023.3319015),” *IEEE Trans. Inf. Theory*, vol. 69, no. 12, pp. 7627–7649, Dec. 2023, doi: [10.1109/TIT.2023.3319015](https://doi.org/10.1109/TIT.2023.3319015).
@@ -78,7 +78,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ### Representative publications
 
-- M. Rowshan and V. F. Dragoi, “[A Hybrid Reliability–Weight Framework for Construction of Polar Codes](https://arxiv.org/pdf/2601.10376),” submitted to *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan and V. F. Dragoi, “[A Hybrid Reliability–Weight Framework for Construction of Polar Codes](https://arxiv.org/pdf/2601.10376),” 2016 
 - M. Rowshan and V. F. Dragoi, “[Towards Weight Distribution-Aware Polar Codes](https://doi.org/10.1109/ISIT63088.2025.11195275),” in *Proc. IEEE Int. Symp. Inf. Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6, doi: [10.1109/ISIT63088.2025.11195275](https://doi.org/10.1109/ISIT63088.2025.11195275).
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
 - X. Gu, M. Rowshan, and J. Yuan, “[Reverse Convolutional Precoding of Polar Codes: Design, Analysis, and Decoding Algorithms](https://doi.org/10.1109/OJCOMS.2025.3644338),” *IEEE Open J. Commun. Soc.*, vol. 6, pp. 7184–7199, 2025, doi: [10.1109/OJCOMS.2025.3644338](https://doi.org/10.1109/OJCOMS.2025.3644338).
