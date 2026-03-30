@@ -28,9 +28,9 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ### Focus and contributions
 
-- Structure-driven design of quantum LDPC and topological codes from classical algebraic, coding-theoretic constructions.
-- Efficient, noise- and structure-aware decoding algorithms for quantum codes including bias-aware, degeneracy-exploiting, single-/few-shot, and approximate lattice decoders.
-- Noise- and hardware-tailored quantum error-correcting architectures for biased-noise, bosonic, and Floquet codes, integrating code design with realistic device and noise models.
+- Structure-driven design of quantum LDPC and topological codes from classical algebraic, coding-theoretic perspective.
+- Noise- and structure-aware decoding algorithms for quantum codes including bias-aware, degeneracy-exploiting, and single-/few-shot decoders.
+- Noise- and hardware-tailored quantum error-correcting architectures for biased-noise, and Floquet codes, integrating code design with realistic device and noise models.
 - Code-structure–enabled fault-tolerant quantum computation leveraging code strucutre to realize native logical gates and scalable magic-state factories (e.g., CCZ “fountains”).
 
 
