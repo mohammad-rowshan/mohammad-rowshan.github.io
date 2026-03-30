@@ -41,7 +41,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, “[Structural conditions for native CCZ magic-state fountains in qLDPC codes](https://arxiv.org/pdf/2601.22489),” submitted to *Physical Review A*, Jan, 2026.
 - M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 - M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
-- M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016
+- M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016.
 
 
 
@@ -78,7 +78,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ### Representative publications
 
-- M. Rowshan and V. F. Dragoi, “[A Hybrid Reliability–Weight Framework for Construction of Polar Codes](https://arxiv.org/pdf/2601.10376),” 2016 
+- M. Rowshan and V. F. Dragoi, “[A Hybrid Reliability–Weight Framework for Construction of Polar Codes](https://arxiv.org/pdf/2601.10376),” 2016. 
 - M. Rowshan and V. F. Dragoi, “[Towards Weight Distribution-Aware Polar Codes](https://doi.org/10.1109/ISIT63088.2025.11195275),” in *Proc. IEEE Int. Symp. Inf. Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6, doi: [10.1109/ISIT63088.2025.11195275](https://doi.org/10.1109/ISIT63088.2025.11195275).
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
 - X. Gu, M. Rowshan, and J. Yuan, “[Reverse Convolutional Precoding of Polar Codes: Design, Analysis, and Decoding Algorithms](https://doi.org/10.1109/OJCOMS.2025.3644338),” *IEEE Open J. Commun. Soc.*, vol. 6, pp. 7184–7199, 2025, doi: [10.1109/OJCOMS.2025.3644338](https://doi.org/10.1109/OJCOMS.2025.3644338).
