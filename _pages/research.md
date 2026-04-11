@@ -23,9 +23,11 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
 
 
-## A. Fualt Tolerant Quantum Computing and Networking
+## A. Fualt Tolerant Quantum Computing (FTQC) and Networking
 
-## 1. Quantum Error Correction (QEC) and Fault Tolerant Quantum Computing (FTQC)
+## 1. Quantum Error Correction (QEC) 
+
+Quantum error correction (QEC) is a foundational technique that enables reliable quantum computation by protecting fragile quantum information from noise and decoherence through the use of redundant encoding across multiple physical qubits. It is essential for fault-tolerant quantum computing, as it allows logical qubits to maintain coherence long enough to execute deep quantum circuits, making large-scale and practically useful quantum algorithms feasible.
 
 ### Focus and contributions
 
