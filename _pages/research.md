@@ -23,6 +23,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
 
 
+## A. Fualt Tolerant Quantum Computing and Networking
 
 ## 1. Quantum Error Correction (QEC) and Fault Tolerant Quantum Computing (FTQC)
 
@@ -44,8 +45,38 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016.
 
 
+## 2. Quantum Error Correction (QEC) and Fault Tolerant Quantum Computing (FTQC)
 
-## 2. Channel Coding - Polar and PAC Codes: Structure, Algebra, and Weight Distribution
+Fault-tolerant quantum computing enables the execution of deep quantum circuits required for practical applications such as chemistry, materials science, and physics. Among these, Hamiltonian Simulation is a foundational primitive, underlying many higher-level algorithms including phase estimation and quantum linear algebra.
+
+### Focus and contributions
+
+- Optimizing T-count and T-depth via circuit synthesis and algorithmic reformulation
+- Co-designing algorithms with underlying QEC schemes to reduce decoding and communication overhead
+
+
+### Representative work
+
+- M. Rowshan, “Error Propagation in Quantum Signal Processing Circuits: Noise Analysis and Robust Phase Design,” submitted to *IEEE Journal of Selected Topics in Signal Processing*, April, 2026.
+- M. Rowshan, “Architecting Fault-Tolerant Quantum Signal Processing: Analytical Foundations, Fidelity Transitions, and Efficient Synthesis,” submitted to *IEEE Journal of Selected Topics in Signal Processing*, April, 2026.
+
+
+## 3. Distributed Networked Fault-Tolerant Quantum Computing (FTQC) Systems 
+
+### Focus and contributions
+
+- Latency-sensitive iterative decoding across racks
+- Congestion and bandwidth limitations in top-of-rack and aggregation switches
+- Heterogeneous link reliability, especially lossy inter-rack optical connections
+
+### Representative work
+
+- M. Rowshan, “Network-Coded Syndrome Distribution for Topological QEC,”  to be submitted to *IEEE Networking Letters*, April, 2026.
+
+
+## B. Error Correction Codes for Communications Systems
+
+## 1. Channel Coding - Polar and PAC Codes: Structure, Algebra, and Weight Distribution
 
 ### Focus and contributions
 
@@ -68,7 +99,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 3. Channel Coding - Construction of (Pretransformed) Polar Codes
+## 2. Channel Coding - Construction of (Pretransformed) Polar Codes
 
 ### Focus and contributions
 
@@ -89,7 +120,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 4. Channel Coding - Advanced Decoding Algorithms for Polar, PAC, and Related Codes
+## 3. Channel Coding - Advanced Decoding Algorithms for Polar, PAC, and Related Codes
 
 ### Focus and contributions
 
@@ -116,7 +147,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 5. Channel Coding for 5G, 6G, and Beyond
+## 4. Channel Coding for 5G, 6G, and Beyond
 
 ### Focus and contributions
 
@@ -128,8 +159,9 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, M. Qiu, Y. Xie, X. Gu, and J. Yuan, “[Channel Coding Towards 6G: Technical Overview and Outlook](https://doi.org/10.1109/OJCOMS.2024.3390000),” *IEEE Open J. Commun. Soc.*, vol. 5, pp. 2585–2685, 2024, doi: [10.1109/OJCOMS.2024.3390000](https://doi.org/10.1109/OJCOMS.2024.3390000).
 
 
+## C. Intersection of Communications Systems and Other Fields
 
-## 6. Signal Processing for Wireless Communications
+## 1. Signal Processing for Wireless Communications
 
 ### Focus and contributions
 
@@ -144,7 +176,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 7. VLSI and Hardware–Software Co-Design for Communication Systems
+## 2. VLSI and Hardware–Software Co-Design for Communication Systems
 
 ### Focus and contributions
 
@@ -159,7 +191,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 
 
-## 8. Machine Learning in Channel Coding and Communication Systems
+## 3. Machine Learning in Channel Coding and Communication Systems
 
 ### Focus and contributions
 
