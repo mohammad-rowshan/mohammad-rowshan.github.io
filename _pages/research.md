@@ -37,7 +37,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ### Representative work
 
-- M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *Physical Review A*, March, 2026.
+- M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Quantum*, Feb, 2026.
 - M. Rowshan, “[Structural conditions for native CCZ magic-state fountains in qLDPC codes](https://arxiv.org/pdf/2601.22489),” submitted to *Physical Review A*, Jan, 2026.
 - M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
