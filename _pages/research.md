@@ -61,7 +61,7 @@ Fault-tolerant quantum computing enables the execution of deep quantum circuits 
 - M. Rowshan, “Architecting Fault-Tolerant Quantum Signal Processing: Analytical Foundations, Fidelity Transitions, and Efficient Synthesis,” submitted to *IEEE Journal of Selected Topics in Signal Processing*, April, 2026.
 
 
-## 3. Distributed Networked Fault-Tolerant Quantum Computing (FTQC) Systems 
+## 3. Distributed Networked Fault-Tolerant Quantum Computing (FTQC)
 
 Distributed Networked Fault-Tolerant Quantum Computing (FTQC) systems are architectures in which scalable quantum computation is achieved by interconnecting multiple error-corrected quantum modules through classical and optical networks.
 
