@@ -45,7 +45,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016.
 
 
-## 2. Quantum Error Correction (QEC) and Fault Tolerant Quantum Computing (FTQC)
+## 2. Quantum Algorithms for the Fault-Tolerant Era
 
 Fault-tolerant quantum computing enables the execution of deep quantum circuits required for practical applications such as chemistry, materials science, and physics. Among these, Hamiltonian Simulation is a foundational primitive, underlying many higher-level algorithms including phase estimation and quantum linear algebra.
 
@@ -62,6 +62,8 @@ Fault-tolerant quantum computing enables the execution of deep quantum circuits 
 
 
 ## 3. Distributed Networked Fault-Tolerant Quantum Computing (FTQC) Systems 
+
+Distributed Networked Fault-Tolerant Quantum Computing (FTQC) systems are architectures in which scalable quantum computation is achieved by interconnecting multiple error-corrected quantum modules through classical and optical networks.
 
 ### Focus and contributions
 
