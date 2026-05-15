@@ -31,6 +31,7 @@ author_profile: true
 
 ### Member of Technical Program Committees (TPC)
 
+- Communication Theory Symposium in GLOBECOM, Macau S.A.R., China – 2026  
 - [International Symposium on Information Theory (ISIT)](https://2026.ieee-isit.org/technical-program-committee), Guangzhou, China – 2026  
 - Channel Coding Beyond 5G Workshop in GLOBECOM, Taipei, Taiwan – 2025  
 - [International Symposium on Information Theory (ISIT)](https://2025.ieee-isit.org/technical-program-committee), Ann Arbor, USA – 2025  
