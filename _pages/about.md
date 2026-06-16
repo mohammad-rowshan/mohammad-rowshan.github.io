@@ -13,7 +13,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 ---
 ### About
 
-I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. 
+I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. I am also a Visiting Fellow (Honorary) at the Centre for Quantum Software and Information (QSI) at the University of Technology Sydney.
 
 I am open to opportunities in both academia and industry, including collaborations, projects, and positions.
 
