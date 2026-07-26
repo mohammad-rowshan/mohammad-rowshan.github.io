@@ -41,7 +41,7 @@ Quantum error correction (QEC) is a foundational technique that enables reliable
 
 - M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Journal of Mathematical Physics*, June, 2026.
-- M. Rowshan, “[Structural conditions for native CCZ magic-state fountains in qLDPC codes](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
+- M. Rowshan, “[Native Non-Clifford Gates in qLDPC Codes: Conditions, Synthesis, and Scaling Limits](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
 - M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to appear in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 - M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” to appear in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
 - M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016.
