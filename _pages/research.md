@@ -40,10 +40,10 @@ Quantum error correction (QEC) is a foundational technique that enables reliable
 ### Representative work
 
 - M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
-- M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Quantum*, Feb, 2026.
-- M. Rowshan, “[Structural conditions for native CCZ magic-state fountains in qLDPC codes](https://arxiv.org/pdf/2601.22489),” submitted to *Physical Review A*, Jan, 2026.
-- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
+- M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Journal of Mathematical Physics*, June, 2026.
+- M. Rowshan, “[Structural conditions for native CCZ magic-state fountains in qLDPC codes](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
+- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to appear in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” to appear in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
 - M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016.
 
 
@@ -59,8 +59,8 @@ Fault-tolerant quantum computing enables the execution of deep quantum circuits 
 
 ### Representative work
 
-- M. Rowshan, “Error Propagation in Quantum Signal Processing Circuits: Noise Analysis and Robust Phase Design,” submitted to *IEEE Journal of Selected Topics in Signal Processing*, April, 2026.
-- M. Rowshan, “Architecting Fault-Tolerant Quantum Signal Processing: Analytical Foundations, Fidelity Transitions, and Efficient Synthesis,” submitted to *IEEE Journal of Selected Topics in Signal Processing*, April, 2026.
+- M. Rowshan, “Error Propagation in Quantum Signal Processing Circuits: Noise Analysis and Robust Phase Design,” April, 2026.
+- M. Rowshan, “Architecting Fault-Tolerant Quantum Signal Processing: Analytical Foundations, Fidelity Transitions, and Efficient Synthesis,” April, 2026.
 
 
 ## 3. Distributed Networked Fault-Tolerant Quantum Computing (FTQC)
