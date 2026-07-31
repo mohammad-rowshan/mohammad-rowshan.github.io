@@ -24,8 +24,8 @@ author_profile: true
 ## Service to the Profession
 ### Editorial Roles
 
-  - **Editor**, [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board) (2025-present)
-  - **Associate Editor**, [IEEE Open Journal of Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board) (2025-present)
+  - **Editor**, [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board) (2025-present)
+  - **Associate Editor**, [IEEE Open Journal of Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board) (2025-present)
 
 
 
