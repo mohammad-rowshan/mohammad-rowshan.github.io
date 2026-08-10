@@ -12,7 +12,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 
 ---
 ### Upcoming Conference Presentation
-<table style="border=0; cellpadding=0; cellspacing=0; border-collapse: collapse; width: 100%; background-color: #f8f9fa; margin-bottom: 20px;">
+<table style="border=0; cellpadding=0; cellspacing=0; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="border: none; background-color: transparent;">
     <td style="border: none; vertical-align: middle; width: 50px; padding: 12px 16px;">
       <img src="/images/events/qce_logo.png" alt="IEEE QCE Logo" style="height: 120px !important; width: auto !important; max-width: none !important; display: block; margin: 0 auto;" />
