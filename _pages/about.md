@@ -59,9 +59,9 @@ During my doctoral studies, I spent six months at the Telecommunications Circuit
 
 ---
 ### Experience
-- **Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2026
-- **Associate Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2023-2025
-- **Research Associate**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2021-2023
+- **Lecturer**, School of Electrical Engineering and Telecommunications (EET), UNSW Sydney, 2026
+- **Associate Lecturer**, School of Electrical Engineering and Telecommunications (EET), UNSW Sydney, 2023-2025
+- **Research Associate**, School of Electrical Engineering and Telecommunications (EET), UNSW Sydney, 2021-2023
 - **Teaching Associate**, Department of Electrical and Computer Systems Engineering (ECSE), Monash University, 2018-2021
 
 - ---
