@@ -45,7 +45,7 @@ I am passionate about tackling **fundamental problems** in the field, uncovering
     - Fault-Tolerant Native Non-Clifford Gates on qLDPC Architectures
  - Decreasing monomial codes (polar codes, Reed-Muller codes, and their variants)
  - Wireless communications and signal processing
- - Hardware architecture design
+ - Hardware architecture design (Efficient VLSI Implementation of Algorithms)
  - Machine learning
    
 ---
