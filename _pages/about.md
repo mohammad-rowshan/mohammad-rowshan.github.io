@@ -11,6 +11,11 @@ published: true
 Welcome — I’m glad you’ve found your way here. Whether you’re visiting out of curiosity, research, or by chance, I invite you to explore my research works. You may discover ideas that connect with your own journey — or spark new ones. If you see potential for us to work together in any capacity, I’d be delighted to hear from you.
 
 ---
+### Upcoming Conference Presentation
+
+| <img src="images/qce_logo.png" width="120" alt="Quantum Week Logo"/> | **IEEE Quantum Computing and Engineering (QCE)** <br> **Location & Dates:** Metro Toronto Convention Centre, Toronto, Ontario, Canada \|  13-18 September 2026 <br><br> **Paper Title:** *"Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits"* <br> **Presentation Time & Room:** Friday, 18 Sept at 16:00-16:30 | Room 803A. 
+
+---
 ### About
 
 I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. I am also a Visiting Fellow (Honorary) at the Centre for Quantum Software and Information (QSI) at the University of Technology Sydney.
@@ -31,10 +36,11 @@ During my doctoral studies, I spent six months at the Telecommunications Circuit
 ---
 ### Research Interests
 I am passionate about tackling **fundamental problems** in the field, uncovering deep **mathematical and structural properties** along with their applications, and transforming abstract ideas into **practical technologies**. My research spans several interconnected areas:
- - Classical and quantum error-correction codes
-    - Decreasing monomial codes (polar codes, Reed-Muller codes, and their variants)
-    - Quantum LDPC codes: Adapting to hardware constraints and noise models
-    - Quantum stabilizer codes and approaches to fault‑tolerant quantum computation
+ - Quantum error-correction (QEC)
+    - Hardware-Constrained, Noise-Tailored, and Single-Shot qLDPC Codes
+    - Algebraic & Biased-Noise Tailored Decoding Algorithms
+    - Fault-Tolerant Native Non-Clifford Gates on qLDPC Architectures
+ - Decreasing monomial codes (polar codes, Reed-Muller codes, and their variants)
  - Wireless communications and signal processing
  - Hardware architecture design
  - Machine learning
