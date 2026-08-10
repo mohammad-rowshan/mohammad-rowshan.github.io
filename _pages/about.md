@@ -16,7 +16,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
   <tr style="background-color: transparent;">
     <td style="border: none; vertical-align: middle; width: 50px; padding: 12px 16px;">
       <img src="/images/events/qce_logo.png" alt="IEEE QCE Logo"
-           style="height: 120px !important; width: auto !important; max-width: none !important; display: block; margin: 0 auto;" />
+           style="height: 120px width: auto;" />
     </td>
     <td style="border: none; vertical-align: middle; padding: 12px 16px; line-height: 1.5; ">
       <span style="font-size: 1.05em; font-weight: bold;">IEEE International Conference on Quantum Computing & Engineering (IEEE QCE)</span><br />
