@@ -12,13 +12,13 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 
 ---
 ### Upcoming Conference Presentation
-<table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
+<table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px; background-color: #f8f9fa;">
   <tr style="background-color: transparent;">
     <td style="border: none; vertical-align: middle; width: 50px; padding: 12px 16px;">
       <img src="/images/events/qce_logo.png" alt="IEEE QCE Logo"
            style="height: 120px !important; width: auto !important; max-width: none !important; display: block; margin: 0 auto;" />
     </td>
-    <td style="border: none; vertical-align: middle; padding: 12px 16px; line-height: 1.5;">
+    <td style="border: none; vertical-align: middle; padding: 12px 16px; line-height: 1.5; ">
       <span style="font-size: 1.05em; font-weight: bold;">IEEE International Conference on Quantum Computing & Engineering (IEEE QCE)</span><br />
       <strong>Location & Dates:</strong> Metro Toronto Convention Centre, Toronto, Canada | September 13–18<br />
       <strong>Paper Title:</strong> <em>"Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits"</em><br />
@@ -66,14 +66,33 @@ I am passionate about tackling **fundamental problems** in the field, uncovering
  - Machine learning
    
 ---
+### Featured Publication
 New Release in IEEE Series on Digital & Mobile Communications  
-<p><a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760" title="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760"><img src="https://m.media-amazon.com/images/I/71EzpaACEmL._SL1500_.jpg" style="width:300px; height:auto;" /></a></p>  
-
-**Polar Codes: From Theory to Practice** — now available from IEEE Press & Wiley.  
-ISBN: 9781119911739  
-Learn more here:  [Wiley Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760) | [IEEExplore](https://ieeexplore.ieee.org/book/11229971)  
-Book Preview: [Google Books](https://www.google.com.au/books/edition/Polar_Codes/ozA80AEACAAJ?hl=en&gbpv=1)  
-Feel free to share any feedback to help improve future editions.
-
-Available at: [Wiley](https://www.wiley.com/en-us/Polar+Codes%3A+From+Theory+to+Practice-p-9781119911753) | [Amazon](https://www.amazon.com/Polar-Codes-Practice-Mohammad-Rowshan/dp/1119911737) | [Google Play](https://play.google.com/store/books/details/Mohammad_Rowshan_Polar_Codes?id=I5eTEQAAQBAJ) | [BookFinder.com](https://bookfinder.com/isbn/9781119911739/?author=&binding=ANY&condition=ANY&currency=AUD&destination=AU&firstEdition=false&isbn=9781119911739&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=&viewAll=false)       
-Borrow from your closest library: [WorldCat](https://search.worldcat.org/title/1548256374)
+<table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px; background: none;">
+  <tr>
+    <td style="border: none; vertical-align: top; width: 320px; padding: 10px; background: none;">
+      <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760"
+         title="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760">
+        <img src="https://m.media-amazon.com/images/I/71EzpaACEmL._SL1500_.jpg"
+             style="width:300px; height:auto;" />
+      </a>
+    </td>
+    <td style="border: none; vertical-align: top; padding: 10px; line-height: 1.5; background: none;">
+      <strong>Polar Codes: From Theory to Practice</strong> — now available from IEEE Press & Wiley.<br>
+      ISBN: 9781119911739<br><br>
+      Learn about the book's content here:
+      <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760">Wiley Online Library</a> |
+      <a href="https://ieeexplore.ieee.org/book/11229971">IEEExplore</a><br>
+      Book Preview:
+      <a href="https://www.google.com.au/books/edition/Polar_Codes/ozA80AEACAAJ?hl=en&gbpv=1">Google Books</a><br><br>
+      Feel free to share any feedback to help improve future editions.<br><br>
+      Available at:
+      <a href="https://www.wiley.com/en-us/Polar+Codes%3A+From+Theory+to+Practice-p-9781119911753">Wiley</a> |
+      <a href="https://www.amazon.com/Polar-Codes-Practice-Mohammad-Rowshan/dp/1119911737">Amazon</a> |
+      <a href="https://play.google.com/store/books/details/Mohammad_Rowshan_Polar_Codes?id=I5eTEQAAQBAJ">Google Play</a> |
+      <a href="https://bookfinder.com/isbn/9781119911739/?author=&binding=ANY&condition=ANY&currency=AUD&destination=AU&firstEdition=false&isbn=9781119911739&keywords=&language=EN&maxPrice=&minPrice=&noIsbn=false&noPrintOnDemand=false&publicationMaxYear=&publicationMinYear=&publisher=&bunchKey=&signed=false&title=&viewAll=false">BookFinder.com</a><br><br>
+      Borrow from your closest library:
+      <a href="https://search.worldcat.org/title/1548256374">WorldCat</a>
+    </td>
+  </tr>
+</table>
