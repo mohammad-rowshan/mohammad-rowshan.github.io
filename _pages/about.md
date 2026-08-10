@@ -49,6 +49,22 @@ I am passionate about tackling **fundamental problems** in the field, uncovering
  - Machine learning
    
 ---
+### Education
+
+- **Ph.D. in Electrical Engineering**, Monash University, 2021,
+- **M.Sc. in Integrated Circuit Design Engineering**, The Hong Kong University of Science and Technology (HKUST), 2016,
+- **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
+
+During my doctoral studies, I spent six months at the Telecommunications Circuits Laboratory (TCL) at **École Polytechnique Fédérale de Lausanne (EPFL)**, Switzerland. I also have a Bachelor of Science degree in **Industrial Engineering** and work experience in this field.  
+
+---
+### Experience
+- **Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2026
+- **Associate Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2023-2025
+- **Research Associate**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2021-2023
+- **Teaching Associate**, Department of Electrical and Computer Systems Engineering (ECSE), Monash University, 2018-2021
+
+- ---
 ### Featured Publication
 New Release in IEEE Series on Digital & Mobile Communications  
 <table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px; background: none;">
@@ -81,19 +97,5 @@ New Release in IEEE Series on Digital & Mobile Communications
   </tr>
 </table>
         
----
-### Education
 
-- **Ph.D. in Electrical Engineering**, Monash University, 2021,
-- **M.Sc. in Integrated Circuit Design Engineering**, The Hong Kong University of Science and Technology (HKUST), 2016,
-- **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
-
-During my doctoral studies, I spent six months at the Telecommunications Circuits Laboratory (TCL) at **École Polytechnique Fédérale de Lausanne (EPFL)**, Switzerland. I also have a Bachelor of Science degree in **Industrial Engineering** and work experience in this field.  
-
----
-### Experience
-- **Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2026
-- **Associate Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2023-2025
-- **Research Associate**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2021-2023
-- **Teaching Associate**, Department of Electrical and Computer Systems Engineering (ECSE), Monash University, 2018-2021
 
