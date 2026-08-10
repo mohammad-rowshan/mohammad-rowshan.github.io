@@ -38,6 +38,18 @@ I am open to opportunities in both academia and industry, including collaboratio
 The surname Rowshan (and variants such as Roshan) originates from Persian/Avestan name raoxšna, meaning ‘bright’, ‘shining’, or ‘illuminated.’ While it shares ancient Indo-European roots with the English word ‘light’ and the Latin ‘lux,’ it carries a deeper cultural meaning implies intellectual enlightenment and spiritual clarity. While often a surname in the West and South Asia, it is widely used as a given name across Central Asia (often transliterated as Raushan). The variants Roshna and Roshni are specific feminine derivatives, referring to a ‘ray of light’ or ‘radiance,’ and are used almost exclusively for women. The name is also historically connected to Roshanak, better known in the West as Roxana, the wife of Alexander the Great.
 
 ---
+### Research Interests
+I am passionate about tackling **fundamental problems** in the field, uncovering deep **mathematical and structural properties** along with their applications, and transforming abstract ideas into **practical technologies**. My research spans several interconnected areas:
+ - Quantum error-correction (QEC)
+    - Hardware-Constrained, Noise-Tailored, and Single-Shot qLDPC Codes
+    - Algebraic & Biased-Noise Tailored Decoding Algorithms
+    - Fault-Tolerant Native Non-Clifford Gates on qLDPC Architectures
+ - Decreasing monomial codes (polar codes, Reed-Muller codes, and their variants)
+ - Wireless communications and signal processing
+ - Hardware architecture design
+ - Machine learning
+   
+---
 ### Education
 
 - **Ph.D. in Electrical Engineering**, Monash University, 2021,
@@ -53,18 +65,6 @@ During my doctoral studies, I spent six months at the Telecommunications Circuit
 - **Research Associate**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2021-2023
 - **Teaching Associate**, Department of Electrical and Computer Systems Engineering (ECSE), Monash University, 2018-2021
 
----
-### Research Interests
-I am passionate about tackling **fundamental problems** in the field, uncovering deep **mathematical and structural properties** along with their applications, and transforming abstract ideas into **practical technologies**. My research spans several interconnected areas:
- - Quantum error-correction (QEC)
-    - Hardware-Constrained, Noise-Tailored, and Single-Shot qLDPC Codes
-    - Algebraic & Biased-Noise Tailored Decoding Algorithms
-    - Fault-Tolerant Native Non-Clifford Gates on qLDPC Architectures
- - Decreasing monomial codes (polar codes, Reed-Muller codes, and their variants)
- - Wireless communications and signal processing
- - Hardware architecture design
- - Machine learning
-   
 ---
 ### Featured Publication
 New Release in IEEE Series on Digital & Mobile Communications  
