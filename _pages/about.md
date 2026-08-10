@@ -32,7 +32,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 
 I’m a Research Fellow at the Centre for Quantum Software and Information, School of Computer Science, University of Technology Sydney (UTS). 
 
-I am open to opportunities in both academia and industry, including collaborations, projects, and positions.
+<!--I am open to opportunities in both academia and industry, including collaborations, projects, and positions.-->
 
 The surname Rowshan (and variants such as Roshan) originates from Persian/Avestan name raoxšna, meaning ‘bright’, ‘shining’, or ‘illuminated.’ While it shares ancient Indo-European roots with the English word ‘light’ and the Latin ‘lux,’ it carries a deeper cultural meaning implies intellectual enlightenment and spiritual clarity. While often a surname in the West and South Asia, it is widely used as a given name across Central Asia (often transliterated as Raushan). The variants Roshna and Roshni are specific feminine derivatives, referring to a ‘ray of light’ or ‘radiance,’ and are used almost exclusively for women. The name is also historically connected to Roshanak, better known in the West as Roxana, the wife of Alexander the Great.
 
