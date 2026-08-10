@@ -60,7 +60,7 @@ New Release in IEEE Series on Digital & Mobile Communications
              style="width:250px; height:auto;" />
       </a>
     </td>
-    <td style="border: none; vertical-align: top; padding: 10px; line-height: 1.5; background: none;">
+    <td style="border: none; vertical-align: top; padding: 10px;  background: none;">
       Book Title: <strong>Polar Codes: From Theory to Practice</strong><br>
       Authors: <strong>Mohamamd Rowshan & Emanuele Viterbo<strong><br>
       ISBN: 9781119911739<br><br>
