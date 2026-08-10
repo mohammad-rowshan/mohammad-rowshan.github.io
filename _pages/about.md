@@ -13,7 +13,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 ---
 ### Upcoming Conference Presentation
 
-| <img src="images/events/qce_logo.png" width="120" alt="Quantum Week Logo"/> | **IEEE Quantum Computing and Engineering (QCE)** <br> **Location & Dates:** Metro Toronto Convention Centre, Toronto, Ontario, Canada \|  13-18 September 2026 <br><br> **Paper Title:** *"Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits"* <br> **Presentation Time & Room:** Friday, 18 Sept at 16:00-16:30 | Room 803A. 
+| <img src="./images/events/qce_logo.png" width="120" alt="Quantum Week Logo"/> | **IEEE Quantum Computing and Engineering (QCE)** <br> **Location & Dates:** Metro Toronto Convention Centre, Toronto, Ontario, Canada \|  13-18 September 2026 <br><br> **Paper Title:** *"Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits"* <br> **Presentation Time & Room:** Friday, 18 Sept at 16:00-16:30 | Room 803A. 
 
 ---
 ### About
