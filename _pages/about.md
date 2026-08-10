@@ -70,15 +70,16 @@ I am passionate about tackling **fundamental problems** in the field, uncovering
 New Release in IEEE Series on Digital & Mobile Communications  
 <table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px; background: none;">
   <tr>
-    <td style="border: none; vertical-align: top; width: 320px; padding: 10px; background: none;">
+    <td style="border: none; vertical-align: top; padding: 10px; background: none;">
       <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760"
          title="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760">
         <img src="https://m.media-amazon.com/images/I/71EzpaACEmL._SL1500_.jpg"
-             style="width:300px; height:auto;" />
+             style="width:250px; height:auto;" />
       </a>
     </td>
     <td style="border: none; vertical-align: top; padding: 10px; line-height: 1.5; background: none;">
-      <strong>Polar Codes: From Theory to Practice</strong> — now available from IEEE Press & Wiley.<br>
+      Book Title: <strong>Polar Codes: From Theory to Practice</strong><br>
+      Authors: <strong>Mohamamd Rowshan & Emanuele Viterbo<strong><br>
       ISBN: 9781119911739<br><br>
       Learn about the book's content here:
       <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119911760">Wiley Online Library</a> |
