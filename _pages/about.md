@@ -12,7 +12,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 
 ---
 ### Upcoming Conference Presentation
-<table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px; background-color: #f8f9fa;">
+<table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="background-color: transparent;">
     <td style="border: none; vertical-align: middle; width: 50px; padding: 12px 16px;">
       <img src="/images/events/qce_logo.png" alt="IEEE QCE Logo"
