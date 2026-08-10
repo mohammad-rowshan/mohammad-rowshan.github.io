@@ -28,7 +28,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 </table>
 
 ---
-### About
+### About Me
 
 I’m a Research Fellow at the Centre for Quantum Software and Information, School of Computer Science, University of Technology Sydney (UTS). 
 
