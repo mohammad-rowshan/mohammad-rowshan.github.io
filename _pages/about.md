@@ -29,7 +29,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 ---
 ### About
 
-I’m Mohammad Rowshan, an Early-Career Academic (ECA) Fellow in the School of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney. I am also a Visiting Fellow (Honorary) at the Centre for Quantum Software and Information (QSI) at the University of Technology Sydney.
+I’m a Research Fellow at the Centre for Quantum Software and Information, School of Computer Science, University of Technology Sydney (UTS). 
 
 I am open to opportunities in both academia and industry, including collaborations, projects, and positions.
 
@@ -43,6 +43,13 @@ The surname Rowshan (and variants such as Roshan) originates from Persian/Avesta
 - **B.Eng. (Hons) in Electrical and Electronic Engineering**, University of Nottingham, 2015 (ranked 1).
 
 During my doctoral studies, I spent six months at the Telecommunications Circuits Laboratory (TCL) at **École Polytechnique Fédérale de Lausanne (EPFL)**, Switzerland. I also have a Bachelor of Science degree in **Industrial Engineering** and work experience in this field.  
+
+---
+### Experience
+- **Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2026
+- **Associate Lecturer**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2023-2025
+- **Research Associate**, School of Electrical Engineering and Telecommunications, UNSW Sydney, 2021-2023
+- **Teaching Associate**, Department of Electrical and Computer Systems Engineering (ECSE), Monash University, 2018-2021
 
 ---
 ### Research Interests
