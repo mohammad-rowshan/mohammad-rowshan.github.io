@@ -21,7 +21,7 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
     <td style="border: none; vertical-align: middle; padding: 12px 16px; line-height: 1.5; ">
       <span style="font-size: 1.05em; font-weight: bold;">IEEE International Conference on Quantum Computing & Engineering (IEEE QCE)</span><br />
       <strong>Location & Dates:</strong> Metro Toronto Convention Centre, Toronto, Canada | September 13–18<br />
-      <strong>Paper Title:</strong> <em>"Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits"</em><br />
+      <strong>Paper Title:</strong> <em>"<a href='https://arxiv.org/abs/2601.22489'>Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits</a>"</em><br />
       <strong>Presentation Time & Room:</strong> Friday, 18 Sept at 16:00–16:30 | Room 803A.
     </td>
   </tr>
