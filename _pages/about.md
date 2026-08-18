@@ -42,7 +42,7 @@ I am passionate about tackling **fundamental problems** in the field, uncovering
  - Quantum error-correction (QEC)
     - Hardware-Constrained, Noise-Tailored, and Single-Shot qLDPC Codes
     - Algebraic & Biased-Noise Tailored Decoding Algorithms
-    - Fault-Tolerant Native Non-Clifford Gates on qLDPC Architectures
+    - Fault-Tolerant Native Transversal Gates/Operations on qLDPC Architectures
  - Decreasing monomial codes (polar codes, Reed-Muller codes, and their variants)
  - Wireless communications and signal processing
  - Hardware architecture design (Efficient VLSI Implementation of Algorithms)
