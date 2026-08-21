@@ -9,7 +9,7 @@ author_profile: true
 ### UNSW Sydney
 
 - **TELE3113 – Analogue and Digital Communications**  
-  Term 1 (Feb–May), 2024–2025 – Coordinator, Lecturer and Tutor  
+  Term 1 (Feb–May), 2024–2026 – Coordinator, Lecturer, and Tutor  
   [Course handbook](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/TELE3113?year=2024)
 
 - **TELE9753 – Advanced Wireless Communications**  
