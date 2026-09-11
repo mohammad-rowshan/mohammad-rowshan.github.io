@@ -28,16 +28,16 @@ Welcome — I’m glad you’ve found your way here. Whether you’re visiting o
 </table>
 
 ---
-## 🎓 Open PhD Position: Quantum Error Correction (QEC)
+### 🎓 Open PhD Position: Quantum Error Correction (QEC)
 
 We are recruiting a PhD candidate at the **Centre for Quantum Software and Information (QSI), UTS** (Sydney, Australia) for a theory- and simulation-driven project.
 
-### 🔬 Project Overview
+#### 🔬 Project Overview
 * **Topic:** Erasure- and Bias-Aware qLDPC Codes and Decoders
 * **Focus:** Co-designing QEC codes and matched decoders built around erasure and bias structures to sharply cut physical qubit overheads in neutral-atom & superconducting architectures.
 * **Supervisors:** Co-supervised by me and Prof. Simon Devitt.
 
-### 📋 Key Details
+#### 📋 Key Details
 - 💰 **Stipend:** ~$40,000 AUD/year (tax-free via Australian RTP award)
 - 📍 **Location:** University of Technology Sydney (UTS), Sydney, Australia
 - 📅 **Application Closing Dates:** 
