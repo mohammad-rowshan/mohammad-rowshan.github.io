@@ -34,15 +34,14 @@ We are recruiting a PhD candidate at the **Centre for Quantum Software and Infor
 
 #### 🔬 Project Overview
 * **Topic:** Erasure- and Bias-Aware qLDPC Codes and Decoders
-* **Focus:** Co-designing QEC codes and matched decoders built around erasure and bias structures to sharply cut physical qubit overheads in neutral-atom & superconducting architectures.
+* **Focus:** Co-designing QEC codes and matched decoders built around erasure and bias structures to sharply cut physical qubit overheads.
 * **Supervisors:** Co-supervised by me and Prof. Simon Devitt.
 
 #### 📋 Key Details
-- 💰 **Stipend:** ~$40,000 AUD/year (tax-free via Australian RTP award)
 - 📍 **Location:** University of Technology Sydney (UTS), Sydney, Australia
 - 📅 **Application Closing Dates:** 
-  - **Domestic:** September 23, 2026
-  - **International:** October 07, 2026
+  - **Domestic applicants:** September 23, 2026 (next round: March 11, 2027)
+  - **International applicants:** October 07, 2026 (next round: June 02, 2027)
 
 [![Apply via Email](https://img.shields.io/badge/Apply-Email%20CV-blue?style=flat&logo=gmail)](mailto:mohammad.rowshan@uts.edu.au)
 [![Position Webpage](https://img.shields.io/badge/View-Full%20Listing-green?style=flat&logo=github)](https://quantumts.org/2026/09/09/phd-position-erasure-and-bias-aware-code-decoder-co-design-for-quantum-error-correction-qec/)
