@@ -11,7 +11,7 @@ published: true
 Welcome — I’m glad you’ve found your way here. Whether you’re visiting out of curiosity, research, or by chance, I invite you to explore my research works. You may discover ideas that connect with your own journey — or spark new ones. If you see potential for us to work together in any capacity, I’d be delighted to hear from you.
 
 ---
-### Upcoming Conference Presentation
+### Upcoming/Recent Conference Presentation
 <table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="background-color: transparent;">
     <td style="border: none; vertical-align: middle; padding: 12px 16px;">
@@ -35,7 +35,7 @@ We are recruiting a PhD candidate at the **Centre for Quantum Software and Infor
 #### 🔬 Project Overview
 * **Topic:** Erasure- and Bias-Aware qLDPC Codes and Decoders
 * **Focus:** Co-designing QEC codes and matched decoders built around erasure and bias structures to sharply cut physical qubit overheads.
-* **Supervisors:** Co-supervised by me and Prof. Simon Devitt.
+* **Supervisors:** Co-supervised by Prof. Simon Devitt.
 
 #### 📋 Key Details
 - 📍 **Location:** University of Technology Sydney (UTS), Sydney, Australia
