@@ -33,6 +33,7 @@ Designing and analysing qLDPC codes through algebraic structure, with emphasis o
 ### Representative work
 
 - M. Rowshan and S. Devitt, "[Logical Operator Decomposition for Distance Analysis of Bivariate Bicycle Codes](https://arxiv.org/pdf/2609.39395)," submitted to *IEEE Transactions on Information Theory*, October, 2026; also submitted to Quantum Information Processing (QIP) 2027, Singapore.
+- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," submitted to IEEE Networking Letters, May, 2026.
 - M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Journal of Mathematical Physics*, June, 2026.
 - M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
