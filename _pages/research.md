@@ -16,6 +16,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 ## Selected Publications
 
 - M. Rowshan, S. H. Dau, and E. Viterbo, “[On the Formation of Min-weight Codewords of Polar/PAC Codes and Its Applications](https://doi.org/10.1109/TIT.2023.3319015),” *IEEE Trans. Inf. Theory*, vol. 69, no. 12, pp. 7627–7649, Dec. 2023, doi: [10.1109/TIT.2023.3319015](https://doi.org/10.1109/TIT.2023.3319015).
+- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," submitted to IEEE Networking Letters, 2026.
 - M. Rowshan, A. Burg, and E. Viterbo, “[Polarization-adjusted (PAC) Codes: Sequential Decoding vs List Decoding](https://doi.org/10.1109/TVT.2021.3052550),” *IEEE Trans. Veh. Technol.*, vol. 70, no. 2, pp. 1434–1447, 2021, doi: [10.1109/TVT.2021.3052550](https://doi.org/10.1109/TVT.2021.3052550).
 - M. Rowshan, M. Qiu, Y. Xie, X. Gu, and J. Yuan, “[Channel Coding Towards 6G: Technical Overview and Outlook](https://doi.org/10.1109/OJCOMS.2024.3390000),” *IEEE Open J. Commun. Soc.*, vol. 5, pp. 2585–2685, 2024, doi: [10.1109/OJCOMS.2024.3390000](https://doi.org/10.1109/OJCOMS.2024.3390000).
 - M. Rowshan and V. F. Dragoi, “[Weight Structure of Low/High-Rate Polar Codes and Weight Contribution-based Partial Order](https://doi.org/10.1109/TIT.2025.3616283),” *IEEE Trans. Inf. Theory*, vol. 71, no. 12, pp. 9340–9358, Dec. 2025, doi: [10.1109/TIT.2025.3616283](https://doi.org/10.1109/TIT.2025.3616283).
