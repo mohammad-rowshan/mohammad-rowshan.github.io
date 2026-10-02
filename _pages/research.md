@@ -25,57 +25,37 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ## A. Fault-Tolerant Quantum Computing (FTQC) and Networking
 
-## 1. Quantum Error Correction (QEC) 
+## 1. Quantum code constructions and algebraic structure 
 
-Quantum error correction (QEC) is a foundational technique that enables reliable quantum computation by protecting fragile quantum information from noise and decoherence through the use of redundant encoding across multiple physical qubits. It is essential for fault-tolerant quantum computing, as it allows logical qubits to maintain coherence long enough to execute deep quantum circuits, making large-scale and practically useful quantum algorithms feasible.
-
-### Focus and contributions
-
-- Structure-driven design of quantum LDPC and topological codes from classical algebraic, coding-theoretic perspective.
-- Noise- and structure-aware decoding algorithms for quantum codes including bias-aware, degeneracy-exploiting, and single-/few-shot decoders.
-- Noise- and hardware-tailored quantum error-correcting architectures for biased-noise, and Floquet codes, integrating code design with realistic device and noise models.
-- Code-structure–enabled fault-tolerant quantum computation leveraging code strucutre to realize native logical gates and scalable magic-state factories (e.g., CCZ “fountains”).
-
+Designing and analysing qLDPC codes through algebraic structure, with emphasis on properties that can be exploited for better codes or logical operations.
 
 ### Representative work
 
+- M. Rowshan and S. Devitt, "[Logical Operator Decomposition for Distance Analysis of Bivariate Bicycle Codes](https://arxiv.org/pdf/2609.39395)," submitted to *IEEE Transactions on Information Theory*, October, 2026; also submitted to Quantum Information Processing (QIP) 2027, Singapore.
 - M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Journal of Mathematical Physics*, June, 2026.
-- M. Rowshan, “[Native Non-Clifford Gates in qLDPC Codes: Conditions, Synthesis, and Scaling Limits](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
-- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” to appear in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” to appear in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
+- M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
+
+
+## 2. Quantum decoding, syndrome redundancy, and fault diagnosis
+
+Developing decoding methods and understanding how noisy or incomplete syndrome information can still support reliable error correction.
+
+### Representative work
+
+- M. Rowshan, "[Metachecks in Bivariate Bicycle Codes: Syndrome Distance, Measurement Faults, and Repair Limits](https://arxiv.org/pdf/2609.39121)," submitted to *IEEE Transactions on Information Theory*, October, 2026; also submitted to Quantum Information Processing (QIP) 2027, Singapore.
+- M. Rowshan, “[Single-Shot and Few-Shot Decoding via Stabilizer Redundancy in Bivariate Bicycle Codes](https://arxiv.org/pdf/2601.01137),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
 - M. Rowshan, “[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/pdf/2601.07240),” 2016.
 
 
-## 2. Quantum Algorithms for the Fault-Tolerant Era
+## 3. Fault-tolerant logical operations and quantum architectures
 
-Fault-tolerant quantum computing enables the execution of deep quantum circuits required for practical applications such as chemistry, materials science, and physics. Among these, Hamiltonian Simulation is a foundational primitive, underlying many higher-level algorithms including phase estimation and quantum linear algebra.
-
-### Focus and contributions
-
-- Optimizing T-count and T-depth via circuit synthesis and algorithmic reformulation
-- Co-designing algorithms with underlying QEC schemes to reduce decoding and communication overhead
-
+Using code structure to make fault-tolerant computation and hardware implementation more efficient, particularly beyond simply storing quantum information.
 
 ### Representative work
 
-- M. Rowshan, “Error Propagation in Quantum Signal Processing Circuits: Noise Analysis and Robust Phase Design,” April, 2026.
-- M. Rowshan, “Architecting Fault-Tolerant Quantum Signal Processing: Analytical Foundations, Fidelity Transitions, and Efficient Synthesis,” April, 2026.
+-  M. Rowshan, “[Native Non-Clifford Gates in qLDPC Codes: Conditions, Synthesis, and Scaling Limits](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
 
-
-## 3. Distributed Networked Fault-Tolerant Quantum Computing (FTQC)
-
-Distributed Networked Fault-Tolerant Quantum Computing (FTQC) systems are architectures in which scalable quantum computation is achieved by interconnecting multiple error-corrected quantum modules through classical and optical networks.
-
-### Focus and contributions
-
-- Latency-sensitive iterative decoding across racks
-- Congestion and bandwidth limitations in top-of-rack and aggregation switches
-- Heterogeneous link reliability, especially lossy inter-rack optical connections
-
-### Representative work
-
-- M. Rowshan, “Network-Coded Syndrome Distribution for Topological QEC,”  to be submitted to *IEEE Networking Letters*, April, 2026.
 
 
 ## B. Error Correction Codes for Communications Systems
