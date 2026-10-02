@@ -23,7 +23,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
 
 
-## A. Fault-Tolerant Quantum Computing (FTQC) and Networking
+## A. Quantum Error Correction (QEC) and Fault-Tolerant Quantum Computing (FTQC)
 
 ## 1. Quantum code constructions and algebraic structure 
 
