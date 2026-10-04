@@ -26,6 +26,8 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ## A. Quantum Error Correction (QEC) and Fault-Tolerant Quantum Computing (FTQC)
 
+<p align="center"> <img src="images/research-map.svg" alt="Research map: code constructions underpin decoding, fault-tolerant logic and quantum communications, which serve quantum memory, computation and communication" width="100%" style="max-width:760px;"> </p>
+
 ## 1. Quantum code constructions and algebraic structure 
 
 Designing and analysing qLDPC codes through algebraic structure, with emphasis on properties that can be exploited for better codes or logical operations.
@@ -33,7 +35,6 @@ Designing and analysing qLDPC codes through algebraic structure, with emphasis o
 ### Representative work
 
 - M. Rowshan and S. Devitt, "[Logical Operator Decomposition for Distance Analysis of Bivariate Bicycle Codes](https://arxiv.org/pdf/2609.39395)," submitted to *IEEE Transactions on Information Theory*, October, 2026; also submitted to Quantum Information Processing (QIP) 2027, Singapore.
-- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," submitted to IEEE Networking Letters, May, 2026.
 - M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Journal of Mathematical Physics*, June, 2026.
 - M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
@@ -58,6 +59,13 @@ Using code structure to make fault-tolerant computation and hardware implementat
 
 -  M. Rowshan, “[Native Non-Clifford Gates in qLDPC Codes: Conditions, Synthesis, and Scaling Limits](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
 
+
+## 4. Quantum Communications
+
+Codes and protocols for moving and preserving quantum information across noisy, resource-constrained links rather than within a single device — distributed QEC over modular interconnects, goal-oriented quantum communication, codes suited to non-Markovian channels, and related directions.
+
+Representative work
+- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," submitted to IEEE Networking Letters, May, 2026.
 
 
 ## B. Error Correction Codes for Communications Systems
