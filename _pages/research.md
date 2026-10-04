@@ -26,7 +26,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ## A. Quantum Error Correction (QEC) and Fault-Tolerant Quantum Computing (FTQC)
 
-<p align="center"> <img src="research-map-a.svg" alt="Research map: code constructions underpin decoding, fault-tolerant logic and quantum communications, which serve quantum memory, computation and communication" width="100%" style="max-width:760px;"> </p>
+<p align="center"> <img src="{{ '/assets/images/research/research-map-a.svg' | relative_url }}" alt="Research map: code constructions underpin decoding, fault-tolerant logic and quantum communications, which serve quantum memory, computation and communication" width="100%" style="max-width:760px;"> </p>
 
 ## 1. Quantum code constructions and algebraic structure 
 
@@ -70,7 +70,7 @@ Representative work
 
 ## B. Error Correction Codes for Communications Systems
 
-<p align="center"> <img src="research-map-b.svg" alt="Research map: structural and algebraic analysis of channel codes feeds code construction and decoding algorithms, which feed channel coding for next-generation communication systems" width="100%" style="max-width:760px;"> </p> <!-- ... existing "1." – "4." subsections and representative-publications lists go here, unchanged ... -->
+<p align="center"> <img src="{{ '/assets/images/research/research-map-b.svg' | relative_url }}" alt="Research map: structural and algebraic analysis of channel codes feeds code construction and decoding algorithms, which feed channel coding for next-generation communication systems" width="100%" style="max-width:760px;"> </p> <!-- ... existing "1." – "4." subsections and representative-publications lists go here, unchanged ... -->
 
 ## 1. Channel Coding - Polar and PAC Codes: Structure, Algebra, and Weight Distribution
 
@@ -157,7 +157,7 @@ Representative work
 
 ## C. Intersection of Communications Systems and Other Fields
 
-<p align="center"> <img src="research-map-c.svg" alt="Research map: signal processing, hardware and VLSI co-design, and machine learning each feed into communication-system design" width="100%" style="max-width:760px;"> </p> <!-- ... existing "1." – "3." subsections and representative-publications lists go here, unchanged ... -->
+<p align="center"> <img src="{{ '/assets/images/research/research-map-c.svg' | relative_url }}" alt="Research map: signal processing, hardware and VLSI co-design, and machine learning each feed into communication-system design" width="100%" style="max-width:760px;"> </p> <!-- ... existing "1." – "3." subsections and representative-publications lists go here, unchanged ... -->
 
 ## 1. Signal Processing for Wireless Communications
 
