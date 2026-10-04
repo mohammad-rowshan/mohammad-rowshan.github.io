@@ -157,6 +157,8 @@ Representative work
 
 ## C. Intersection of Communications Systems and Other Fields
 
+<p align="center"> <img src="assets/research-map-c.svg" alt="Research map: signal processing, hardware and VLSI co-design, and machine learning each feed into communication-system design" width="100%" style="max-width:760px;"> </p> <!-- ... existing "1." – "3." subsections and representative-publications lists go here, unchanged ... -->
+
 ## 1. Signal Processing for Wireless Communications
 
 ### Focus and contributions
