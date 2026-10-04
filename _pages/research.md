@@ -26,7 +26,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 
 ## A. Quantum Error Correction (QEC) and Fault-Tolerant Quantum Computing (FTQC)
 
-<p align="center"> <img src="images/research-map.svg" alt="Research map: code constructions underpin decoding, fault-tolerant logic and quantum communications, which serve quantum memory, computation and communication" width="100%" style="max-width:760px;"> </p>
+<p align="center"> <img src="quantum-research-map.svg" alt="Research map: code constructions underpin decoding, fault-tolerant logic and quantum communications, which serve quantum memory, computation and communication" width="100%" style="max-width:760px;"> </p>
 
 ## 1. Quantum code constructions and algebraic structure 
 
