@@ -59,7 +59,7 @@ Using code structure to make fault-tolerant computation and hardware implementat
 -  M. Rowshan, “[Native Non-Clifford Gates in qLDPC Codes: Conditions, Synthesis, and Scaling Limits](https://arxiv.org/pdf/2601.22489),” to appear in the proceedings of *IEEE Quantum Computing and Engineering (QCE)*, Sep, 2026.
 
 
-## 4. Quantum Communications
+## 4. Quantum Communications and Networks
 
 Codes and protocols for moving and preserving quantum information across noisy, resource-constrained links rather than within a single device — distributed QEC over modular interconnects, goal-oriented quantum communication, codes suited to non-Markovian channels, and related directions.
 
