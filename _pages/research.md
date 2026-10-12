@@ -16,7 +16,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 ## Selected Publications
 
 - M. Rowshan, S. H. Dau, and E. Viterbo, “[On the Formation of Min-weight Codewords of Polar/PAC Codes and Its Applications](https://doi.org/10.1109/TIT.2023.3319015),” *IEEE Trans. Inf. Theory*, vol. 69, no. 12, pp. 7627–7649, Dec. 2023, doi: [10.1109/TIT.2023.3319015](https://doi.org/10.1109/TIT.2023.3319015).
-- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," submitted to IEEE Networking Letters, 2026.
+- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," accepted for publication in IEEE Networking Letters, 2026.
 - M. Rowshan, A. Burg, and E. Viterbo, “[Polarization-adjusted (PAC) Codes: Sequential Decoding vs List Decoding](https://doi.org/10.1109/TVT.2021.3052550),” *IEEE Trans. Veh. Technol.*, vol. 70, no. 2, pp. 1434–1447, 2021, doi: [10.1109/TVT.2021.3052550](https://doi.org/10.1109/TVT.2021.3052550).
 - M. Rowshan, M. Qiu, Y. Xie, X. Gu, and J. Yuan, “[Channel Coding Towards 6G: Technical Overview and Outlook](https://doi.org/10.1109/OJCOMS.2024.3390000),” *IEEE Open J. Commun. Soc.*, vol. 5, pp. 2585–2685, 2024, doi: [10.1109/OJCOMS.2024.3390000](https://doi.org/10.1109/OJCOMS.2024.3390000).
 - M. Rowshan and V. F. Dragoi, “[Weight Structure of Low/High-Rate Polar Codes and Weight Contribution-based Partial Order](https://doi.org/10.1109/TIT.2025.3616283),” *IEEE Trans. Inf. Theory*, vol. 71, no. 12, pp. 9340–9358, Dec. 2025, doi: [10.1109/TIT.2025.3616283](https://doi.org/10.1109/TIT.2025.3616283).
@@ -35,7 +35,6 @@ Designing and analysing qLDPC codes through algebraic structure, with emphasis o
 ### Representative work
 
 - M. Rowshan and S. Devitt, "[Logical Operator Decomposition for Distance Analysis of Bivariate Bicycle Codes](https://arxiv.org/pdf/2609.39395)," submitted to *IEEE Transactions on Information Theory*, October, 2026; also submitted to Quantum Information Processing (QIP) 2027, Singapore.
-- M. Rowshan, “Geometry, Degree, and Distance in Low-Weight Stabilizer Codes,” submitted to *IEEE Transactions on Information Theory*, March, 2026.
 - M. Rowshan, “[Structural Analysis of Directional qLDPC Codes](https://arxiv.org/pdf/2602.19057),” submitted to *Journal of Mathematical Physics*, June, 2026.
 - M. Rowshan, “[Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes](https://arxiv.org/pdf/2601.03623),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.
 
@@ -65,7 +64,7 @@ Using code structure to make fault-tolerant computation and hardware implementat
 Codes and protocols for moving and preserving quantum information across noisy, resource-constrained links rather than within a single device — distributed QEC over modular interconnects, goal-oriented quantum communication, codes suited to non-Markovian channels, and related directions.
 
 Representative work
-- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," submitted to IEEE Networking Letters, May, 2026.
+- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," accepted for publication in IEEE Networking Letters, 2026.
 
 
 ## B. Error Correction Codes for Communications Systems
