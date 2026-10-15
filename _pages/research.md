@@ -21,7 +21,7 @@ For a complete list, please visit my [Google Scholar](https://scholar.google.com
 - M. Rowshan and V. F. Dragoi, “[Weight Structure of Low/High-Rate Polar Codes and Weight Contribution-based Partial Order](https://doi.org/10.1109/TIT.2025.3616283),” *IEEE Trans. Inf. Theory*, vol. 71, no. 12, pp. 9340–9358, Dec. 2025, doi: [10.1109/TIT.2025.3616283](https://doi.org/10.1109/TIT.2025.3616283).
 - M. Rowshan and J. Yuan, “[Segmented GRAND: Complexity Reduction through Sub-pattern Combination](https://doi.org/10.1109/TCOMM.2025.3541094),” *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 5607–5620, Aug. 2025, doi: [10.1109/TCOMM.2025.3541094](https://doi.org/10.1109/TCOMM.2025.3541094).
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
-- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," accepted for publication in IEEE Networking Letters, 2026.
+- M. Rowshan, "[Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures](https://ieeexplore.ieee.org/document/11737595)," accepted for publication in IEEE Networking Letters, 2026.
 
 
 ## A. Quantum Error Correction (QEC) and Fault-Tolerant Quantum Computing (FTQC)
@@ -64,7 +64,7 @@ Using code structure to make fault-tolerant computation and hardware implementat
 Codes and protocols for moving and preserving quantum information across noisy, resource-constrained links rather than within a single device — distributed QEC over modular interconnects, goal-oriented quantum communication, codes suited to non-Markovian channels, and related directions.
 
 Representative work
-- M. Rowshan, "Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures," accepted for publication in IEEE Networking Letters, 2026.
+- M. Rowshan, "[Locality-Aware Quantum LDPC Codes Over Asymmetric Optical Links in Modular Architectures](https://ieeexplore.ieee.org/document/11737595)," accepted for publication in IEEE Networking Letters, 2026.
 
 
 ## B. Error Correction Codes for Communications Systems
