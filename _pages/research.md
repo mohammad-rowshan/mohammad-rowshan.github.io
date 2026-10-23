@@ -104,6 +104,7 @@ Representative work
 
 ### Representative publications
 
+- X. Gu, M. Rowshan, and J. Yuan, “[CRC-Polar-Inspired PAC Codes: Enumeration and Minimum-Weight Codewords Pruning](https://doi.org/10.1109/TCOMM.2026.3745109),” in *IEEE Trans. Commun.*, Early Access, 2026, doi: [10.1109/TCOMM.2026.3745109](https://doi.org/10.1109/TCOMM.2026.3745109).
 - M. Rowshan and V. F. Dragoi, “[A Hybrid Reliability–Weight Framework for Construction of Polar Codes](https://arxiv.org/pdf/2601.10376),” 2016. 
 - M. Rowshan and V. F. Dragoi, “[Towards Weight Distribution-Aware Polar Codes](https://doi.org/10.1109/ISIT63088.2025.11195275),” in *Proc. IEEE Int. Symp. Inf. Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6, doi: [10.1109/ISIT63088.2025.11195275](https://doi.org/10.1109/ISIT63088.2025.11195275).
 - X. Gu, M. Rowshan, and J. Yuan, “[PAC Codes Meet CRC-Polar Codes](https://doi.org/10.1109/ITW62417.2025.11240368),” in *Proc. IEEE Inf. Theory Workshop (ITW)*, Sydney, NSW, Australia, 2025, pp. 1–6, doi: [10.1109/ITW62417.2025.11240368](https://doi.org/10.1109/ITW62417.2025.11240368).
