@@ -34,7 +34,6 @@ We are recruiting a PhD candidate at the **Centre for Quantum Software and Infor
 
 #### 🔬 Project Overview
 * **Topic:** Erasure- and Bias-Aware qLDPC Codes and Decoders
-* **Focus:** Co-designing QEC codes and matched decoders built around erasure and bias structures to sharply cut physical qubit overheads.
 * **Supervisors:** Co-supervised by Prof. Simon Devitt.
 
 #### 📋 Key Details
