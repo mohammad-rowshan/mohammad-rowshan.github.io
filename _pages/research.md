@@ -81,8 +81,9 @@ Representative work
 
 ### Representative publications
 
-- M. Rowshan and V. F. Dragoi, “[Generalized Weight Structure of Polar Codes: Selected Template Polynomials](https://arxiv.org/pdf/2601.10362),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
-- V. F. Dragoi and M. Rowshan, “[Algebraic Properties of PAC Codes](https://arxiv.org/pdf/2601.10262),” to be presented at *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China.  
+- M. Rowshan and V. F. Dragoi, “[A Tutorial on Weight Structure of Polar Codes](https://ieeexplore.ieee.org/abstract/document/11520263/)," IEEE BITS the Information Theory Magazine, pp 1-14, 2026.
+- M. Rowshan and V. F. Dragoi, “[Generalized Weight Structure of Polar Codes: Selected Template Polynomials](https://arxiv.org/pdf/2601.10362),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China, June, 2026.  
+- V. F. Dragoi and M. Rowshan, “[Algebraic Properties of PAC Codes](https://arxiv.org/pdf/2601.10262),” in the proceedings of *2026 IEEE Int. Symp. Inf. Theory (ISIT)*, Guangzhou, China, June, 2026.  
 - M. Rowshan and V. F. Dragoi, “[Weight Structure of Low/High-Rate Polar Codes and Weight Contribution-based Partial Order](https://doi.org/10.1109/TIT.2025.3616283),” *IEEE Trans. Inf. Theory*, vol. 71, no. 12, pp. 9340–9358, Dec. 2025, doi: [10.1109/TIT.2025.3616283](https://doi.org/10.1109/TIT.2025.3616283).
 - V. F. Dragoi, M. Rowshan, and J. Yuan, “[On the Closed-form Enumeration of Polar Codes: 1.5d-Weight Codewords](https://doi.org/10.1109/TCOMM.2024.3394749),” *IEEE Trans. Commun.*, vol. 72, no. 10, pp. 5972–5987, Oct. 2024, doi: [10.1109/TCOMM.2024.3394749](https://doi.org/10.1109/TCOMM.2024.3394749).
 - M. Rowshan, S. H. Dau, and E. Viterbo, “[On the Formation of Min-weight Codewords of Polar/PAC Codes and Its Applications](https://doi.org/10.1109/TIT.2023.3319015),” *IEEE Trans. Inf. Theory*, vol. 69, no. 12, pp. 7627–7649, Dec. 2023, doi: [10.1109/TIT.2023.3319015](https://doi.org/10.1109/TIT.2023.3319015).
