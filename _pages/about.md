@@ -48,7 +48,7 @@ We are recruiting a PhD candidate at the **Centre for Quantum Software and Infor
 ---
 ### About Me
 
-I’m a Research Fellow at the Centre for Quantum Software and Information, School of Computer Science, University of Technology Sydney (UTS). I am also a member of [Experts Network](https://profiles.uts.edu.au/Mohammad.Rowshan) of Sydney Quantum Academy (SQA).
+I’m a [Research Fellow](https://profiles.uts.edu.au/Mohammad.Rowshan) at the Centre for Quantum Software and Information, School of Computer Science, University of Technology Sydney (UTS). I am also a member of the Sydney Quantum Academy (SQA) [Experts Network](https://profiles.uts.edu.au/Mohammad.Rowshan) of Sydney Quantum Academy (SQA).
 
 <!--I am open to opportunities in both academia and industry, including collaborations, projects, and positions.-->
 
